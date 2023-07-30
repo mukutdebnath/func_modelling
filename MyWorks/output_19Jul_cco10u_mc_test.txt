@@ -1,0 +1,2402 @@
+['resnet20_adc', 'resnet20_adc_vars']
+Test results for MC iteration: 0
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 0
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 3.943 (3.943)	Loss 0.2366 (0.2366)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.502 (0.577)	Loss 0.3239 (0.3493)	Prec@1 92.969 (91.422)
+ * Prec@1 91.270
+ADC: cco, Bits: 7
+Test Accuracy:91.27
+------------------------------X--------------------------------
+Test results for MC iteration: 1
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 1
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.788 (0.788)	Loss 0.1938 (0.1938)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.509 (0.517)	Loss 0.2209 (0.2618)	Prec@1 95.312 (92.862)
+ * Prec@1 92.890
+ADC: cco, Bits: 7
+Test Accuracy:92.89
+------------------------------X--------------------------------
+Test results for MC iteration: 2
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 2
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.771 (0.771)	Loss 0.1965 (0.1965)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.504 (0.517)	Loss 0.2026 (0.2524)	Prec@1 95.312 (92.846)
+ * Prec@1 92.920
+ADC: cco, Bits: 7
+Test Accuracy:92.92
+------------------------------X--------------------------------
+Test results for MC iteration: 3
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 3
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.794 (0.794)	Loss 0.1889 (0.1889)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.534 (0.536)	Loss 0.2192 (0.2608)	Prec@1 95.312 (92.785)
+ * Prec@1 92.900
+ADC: cco, Bits: 7
+Test Accuracy:92.9
+------------------------------X--------------------------------
+Test results for MC iteration: 4
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 4
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.844 (0.844)	Loss 0.1926 (0.1926)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.514 (0.533)	Loss 0.2010 (0.2528)	Prec@1 95.312 (92.708)
+ * Prec@1 92.830
+ADC: cco, Bits: 7
+Test Accuracy:92.83
+------------------------------X--------------------------------
+Test results for MC iteration: 5
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 5
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.903 (0.903)	Loss 0.1878 (0.1878)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.517 (0.543)	Loss 0.2225 (0.2418)	Prec@1 92.969 (92.065)
+ * Prec@1 92.100
+ADC: cco, Bits: 7
+Test Accuracy:92.1
+------------------------------X--------------------------------
+Test results for MC iteration: 6
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 6
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.853 (0.853)	Loss 0.2379 (0.2379)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.524 (0.535)	Loss 0.3633 (0.3719)	Prec@1 92.969 (91.023)
+ * Prec@1 91.020
+ADC: cco, Bits: 7
+Test Accuracy:91.02
+------------------------------X--------------------------------
+Test results for MC iteration: 7
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 7
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.851 (0.851)	Loss 0.1930 (0.1930)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.534 (0.538)	Loss 0.2144 (0.2574)	Prec@1 95.312 (92.800)
+ * Prec@1 92.880
+ADC: cco, Bits: 7
+Test Accuracy:92.88
+------------------------------X--------------------------------
+Test results for MC iteration: 8
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 8
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.797 (0.797)	Loss 0.1984 (0.1984)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.556 (0.534)	Loss 0.1992 (0.2471)	Prec@1 95.312 (92.969)
+ * Prec@1 93.040
+ADC: cco, Bits: 7
+Test Accuracy:93.04
+------------------------------X--------------------------------
+Test results for MC iteration: 9
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 9
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.795 (0.795)	Loss 0.2491 (0.2491)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.579 (0.536)	Loss 0.3700 (0.3852)	Prec@1 92.188 (90.732)
+ * Prec@1 90.660
+ADC: cco, Bits: 7
+Test Accuracy:90.66
+------------------------------X--------------------------------
+Test results for MC iteration: 10
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 10
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.886 (0.886)	Loss 0.1872 (0.1872)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.555 (0.542)	Loss 0.2208 (0.2415)	Prec@1 92.969 (92.096)
+ * Prec@1 92.130
+ADC: cco, Bits: 7
+Test Accuracy:92.13
+------------------------------X--------------------------------
+Test results for MC iteration: 11
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 11
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.796 (0.796)	Loss 0.1837 (0.1837)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.526 (0.535)	Loss 0.2044 (0.2373)	Prec@1 94.531 (92.387)
+ * Prec@1 92.470
+ADC: cco, Bits: 7
+Test Accuracy:92.47
+------------------------------X--------------------------------
+Test results for MC iteration: 12
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 12
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.885 (0.885)	Loss 0.2464 (0.2464)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.508 (0.535)	Loss 0.3433 (0.3626)	Prec@1 92.188 (91.192)
+ * Prec@1 91.180
+ADC: cco, Bits: 7
+Test Accuracy:91.18
+------------------------------X--------------------------------
+Test results for MC iteration: 13
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 13
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.755 (0.755)	Loss 0.1907 (0.1907)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.528 (0.529)	Loss 0.2090 (0.2555)	Prec@1 95.312 (92.907)
+ * Prec@1 92.950
+ADC: cco, Bits: 7
+Test Accuracy:92.95
+------------------------------X--------------------------------
+Test results for MC iteration: 14
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 14
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.750 (0.750)	Loss 0.2006 (0.2006)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.507 (0.522)	Loss 0.2104 (0.2595)	Prec@1 95.312 (92.739)
+ * Prec@1 92.830
+ADC: cco, Bits: 7
+Test Accuracy:92.83
+------------------------------X--------------------------------
+Test results for MC iteration: 15
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 15
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.778 (0.778)	Loss 0.2093 (0.2093)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.520 (0.527)	Loss 0.2387 (0.2829)	Prec@1 94.531 (92.295)
+ * Prec@1 92.370
+ADC: cco, Bits: 7
+Test Accuracy:92.37
+------------------------------X--------------------------------
+Test results for MC iteration: 16
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 16
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.785 (0.785)	Loss 0.2058 (0.2058)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.531 (0.529)	Loss 0.2307 (0.2814)	Prec@1 94.531 (92.341)
+ * Prec@1 92.410
+ADC: cco, Bits: 7
+Test Accuracy:92.41
+------------------------------X--------------------------------
+Test results for MC iteration: 17
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 17
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.838 (0.838)	Loss 0.2140 (0.2140)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.582 (0.544)	Loss 0.2871 (0.2659)	Prec@1 89.844 (91.161)
+ * Prec@1 91.100
+ADC: cco, Bits: 7
+Test Accuracy:91.1
+------------------------------X--------------------------------
+Test results for MC iteration: 18
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 18
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.825 (0.825)	Loss 0.2042 (0.2042)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.549 (0.542)	Loss 0.2259 (0.2753)	Prec@1 94.531 (92.555)
+ * Prec@1 92.660
+ADC: cco, Bits: 7
+Test Accuracy:92.66
+------------------------------X--------------------------------
+Test results for MC iteration: 19
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 19
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.813 (0.813)	Loss 0.2041 (0.2041)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.522 (0.515)	Loss 0.2456 (0.2839)	Prec@1 94.531 (92.463)
+ * Prec@1 92.500
+ADC: cco, Bits: 7
+Test Accuracy:92.5
+------------------------------X--------------------------------
+Test results for MC iteration: 20
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 20
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.764 (0.764)	Loss 0.2008 (0.2008)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.509 (0.516)	Loss 0.2294 (0.2712)	Prec@1 94.531 (92.678)
+ * Prec@1 92.720
+ADC: cco, Bits: 7
+Test Accuracy:92.72
+------------------------------X--------------------------------
+Test results for MC iteration: 21
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 21
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.840 (0.840)	Loss 0.2331 (0.2331)	Prec@1 92.188 (92.188)
+Test: [50/79]	Time 0.509 (0.521)	Loss 0.3153 (0.2717)	Prec@1 89.844 (90.686)
+ * Prec@1 90.610
+ADC: cco, Bits: 7
+Test Accuracy:90.61
+------------------------------X--------------------------------
+Test results for MC iteration: 22
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 22
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.840 (0.840)	Loss 0.2144 (0.2144)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.539 (0.534)	Loss 0.2460 (0.2839)	Prec@1 94.531 (92.402)
+ * Prec@1 92.400
+ADC: cco, Bits: 7
+Test Accuracy:92.4
+------------------------------X--------------------------------
+Test results for MC iteration: 23
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 23
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.798 (0.798)	Loss 0.2787 (0.2787)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.534 (0.527)	Loss 0.3802 (0.3978)	Prec@1 92.188 (90.257)
+ * Prec@1 90.280
+ADC: cco, Bits: 7
+Test Accuracy:90.28
+------------------------------X--------------------------------
+Test results for MC iteration: 24
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 24
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.769 (0.769)	Loss 0.2102 (0.2102)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.510 (0.538)	Loss 0.2415 (0.2882)	Prec@1 94.531 (92.172)
+ * Prec@1 92.200
+ADC: cco, Bits: 7
+Test Accuracy:92.2
+------------------------------X--------------------------------
+Test results for MC iteration: 25
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 25
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.810 (0.810)	Loss 0.1882 (0.1882)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.542 (0.539)	Loss 0.2031 (0.2360)	Prec@1 92.969 (92.218)
+ * Prec@1 92.310
+ADC: cco, Bits: 7
+Test Accuracy:92.31
+------------------------------X--------------------------------
+Test results for MC iteration: 26
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 26
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.817 (0.817)	Loss 0.2078 (0.2078)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.546 (0.543)	Loss 0.2423 (0.2859)	Prec@1 94.531 (92.341)
+ * Prec@1 92.380
+ADC: cco, Bits: 7
+Test Accuracy:92.38
+------------------------------X--------------------------------
+Test results for MC iteration: 27
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 27
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.824 (0.824)	Loss 0.2170 (0.2170)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.535 (0.534)	Loss 0.2672 (0.3064)	Prec@1 94.531 (91.866)
+ * Prec@1 91.950
+ADC: cco, Bits: 7
+Test Accuracy:91.95
+------------------------------X--------------------------------
+Test results for MC iteration: 28
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 28
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.839 (0.839)	Loss 0.2238 (0.2238)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.507 (0.531)	Loss 0.2533 (0.2987)	Prec@1 94.531 (92.004)
+ * Prec@1 92.090
+ADC: cco, Bits: 7
+Test Accuracy:92.09
+------------------------------X--------------------------------
+Test results for MC iteration: 29
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 29
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.784 (0.784)	Loss 0.1918 (0.1918)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.518 (0.533)	Loss 0.2358 (0.2472)	Prec@1 92.969 (92.065)
+ * Prec@1 92.000
+ADC: cco, Bits: 7
+Test Accuracy:92.0
+------------------------------X--------------------------------
+Test results for MC iteration: 30
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 30
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.803 (0.803)	Loss 0.2168 (0.2168)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.509 (0.524)	Loss 0.2532 (0.2962)	Prec@1 94.531 (92.019)
+ * Prec@1 92.120
+ADC: cco, Bits: 7
+Test Accuracy:92.12
+------------------------------X--------------------------------
+Test results for MC iteration: 31
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 31
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.806 (0.806)	Loss 0.1808 (0.1808)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.538 (0.528)	Loss 0.1924 (0.2339)	Prec@1 94.531 (92.647)
+ * Prec@1 92.700
+ADC: cco, Bits: 7
+Test Accuracy:92.7
+------------------------------X--------------------------------
+Test results for MC iteration: 32
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 32
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.768 (0.768)	Loss 0.2767 (0.2767)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.509 (0.524)	Loss 0.4789 (0.4756)	Prec@1 89.844 (88.986)
+ * Prec@1 88.920
+ADC: cco, Bits: 7
+Test Accuracy:88.92
+------------------------------X--------------------------------
+Test results for MC iteration: 33
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 33
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.762 (0.762)	Loss 0.2557 (0.2557)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.513 (0.524)	Loss 0.4065 (0.4175)	Prec@1 90.625 (90.150)
+ * Prec@1 90.210
+ADC: cco, Bits: 7
+Test Accuracy:90.21
+------------------------------X--------------------------------
+Test results for MC iteration: 34
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 34
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.821 (0.821)	Loss 0.1802 (0.1802)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.553 (0.543)	Loss 0.1952 (0.2387)	Prec@1 94.531 (92.601)
+ * Prec@1 92.680
+ADC: cco, Bits: 7
+Test Accuracy:92.68
+------------------------------X--------------------------------
+Test results for MC iteration: 35
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 35
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.831 (0.831)	Loss 0.1809 (0.1809)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.530 (0.540)	Loss 0.1873 (0.2350)	Prec@1 94.531 (92.846)
+ * Prec@1 92.880
+ADC: cco, Bits: 7
+Test Accuracy:92.88
+------------------------------X--------------------------------
+Test results for MC iteration: 36
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 36
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.780 (0.780)	Loss 0.1885 (0.1885)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.535 (0.535)	Loss 0.2028 (0.2493)	Prec@1 95.312 (92.907)
+ * Prec@1 92.870
+ADC: cco, Bits: 7
+Test Accuracy:92.87
+------------------------------X--------------------------------
+Test results for MC iteration: 37
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 37
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.812 (0.812)	Loss 0.1824 (0.1824)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.506 (0.528)	Loss 0.2011 (0.2452)	Prec@1 95.312 (93.030)
+ * Prec@1 93.070
+ADC: cco, Bits: 7
+Test Accuracy:93.07
+------------------------------X--------------------------------
+Test results for MC iteration: 38
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 38
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.810 (0.810)	Loss 0.1813 (0.1813)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.508 (0.519)	Loss 0.1886 (0.2403)	Prec@1 94.531 (92.923)
+ * Prec@1 92.910
+ADC: cco, Bits: 7
+Test Accuracy:92.91
+------------------------------X--------------------------------
+Test results for MC iteration: 39
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 39
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.841 (0.841)	Loss 0.1836 (0.1836)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.519 (0.516)	Loss 0.1874 (0.2392)	Prec@1 95.312 (92.984)
+ * Prec@1 93.000
+ADC: cco, Bits: 7
+Test Accuracy:93.0
+------------------------------X--------------------------------
+Test results for MC iteration: 40
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 40
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.785 (0.785)	Loss 0.1849 (0.1849)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.522 (0.521)	Loss 0.1903 (0.2420)	Prec@1 95.312 (93.030)
+ * Prec@1 93.000
+ADC: cco, Bits: 7
+Test Accuracy:93.0
+------------------------------X--------------------------------
+Test results for MC iteration: 41
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 41
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.825 (0.825)	Loss 0.1812 (0.1812)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.523 (0.535)	Loss 0.2009 (0.2476)	Prec@1 95.312 (92.892)
+ * Prec@1 92.970
+ADC: cco, Bits: 7
+Test Accuracy:92.97
+------------------------------X--------------------------------
+Test results for MC iteration: 42
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 42
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.866 (0.866)	Loss 0.1848 (0.1848)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.508 (0.535)	Loss 0.1921 (0.2390)	Prec@1 94.531 (92.846)
+ * Prec@1 92.950
+ADC: cco, Bits: 7
+Test Accuracy:92.95
+------------------------------X--------------------------------
+Test results for MC iteration: 43
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 43
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.783 (0.783)	Loss 0.1843 (0.1843)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.517 (0.536)	Loss 0.1954 (0.2352)	Prec@1 94.531 (92.724)
+ * Prec@1 92.780
+ADC: cco, Bits: 7
+Test Accuracy:92.78
+------------------------------X--------------------------------
+Test results for MC iteration: 44
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 44
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.807 (0.807)	Loss 0.2595 (0.2595)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.511 (0.522)	Loss 0.3781 (0.4009)	Prec@1 92.188 (90.365)
+ * Prec@1 90.330
+ADC: cco, Bits: 7
+Test Accuracy:90.33
+------------------------------X--------------------------------
+Test results for MC iteration: 45
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 45
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.767 (0.767)	Loss 0.2582 (0.2582)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.506 (0.526)	Loss 0.3913 (0.4100)	Prec@1 91.406 (90.227)
+ * Prec@1 90.290
+ADC: cco, Bits: 7
+Test Accuracy:90.29
+------------------------------X--------------------------------
+Test results for MC iteration: 46
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 46
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.793 (0.793)	Loss 0.1819 (0.1819)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.519 (0.530)	Loss 0.1966 (0.2413)	Prec@1 94.531 (92.754)
+ * Prec@1 92.770
+ADC: cco, Bits: 7
+Test Accuracy:92.77
+------------------------------X--------------------------------
+Test results for MC iteration: 47
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 47
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.804 (0.804)	Loss 0.2233 (0.2233)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.523 (0.530)	Loss 0.2411 (0.2924)	Prec@1 94.531 (92.142)
+ * Prec@1 92.150
+ADC: cco, Bits: 7
+Test Accuracy:92.15
+------------------------------X--------------------------------
+Test results for MC iteration: 48
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 48
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.802 (0.802)	Loss 0.1869 (0.1869)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.524 (0.528)	Loss 0.2103 (0.2379)	Prec@1 93.750 (92.249)
+ * Prec@1 92.340
+ADC: cco, Bits: 7
+Test Accuracy:92.34
+------------------------------X--------------------------------
+Test results for MC iteration: 49
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 49
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.819 (0.819)	Loss 0.1811 (0.1811)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.509 (0.529)	Loss 0.1855 (0.2383)	Prec@1 94.531 (92.969)
+ * Prec@1 92.960
+ADC: cco, Bits: 7
+Test Accuracy:92.96
+------------------------------X--------------------------------
+Test results for MC iteration: 50
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 50
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.777 (0.777)	Loss 0.2770 (0.2770)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.527 (0.529)	Loss 0.4957 (0.4944)	Prec@1 89.844 (88.894)
+ * Prec@1 88.850
+ADC: cco, Bits: 7
+Test Accuracy:88.85
+------------------------------X--------------------------------
+Test results for MC iteration: 51
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 51
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.788 (0.788)	Loss 0.1983 (0.1983)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.533 (0.530)	Loss 0.2128 (0.2643)	Prec@1 95.312 (92.601)
+ * Prec@1 92.670
+ADC: cco, Bits: 7
+Test Accuracy:92.67
+------------------------------X--------------------------------
+Test results for MC iteration: 52
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 52
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.796 (0.796)	Loss 0.2026 (0.2026)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.517 (0.532)	Loss 0.2486 (0.2841)	Prec@1 94.531 (92.371)
+ * Prec@1 92.420
+ADC: cco, Bits: 7
+Test Accuracy:92.42
+------------------------------X--------------------------------
+Test results for MC iteration: 53
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 53
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.797 (0.797)	Loss 0.2287 (0.2287)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.514 (0.528)	Loss 0.3169 (0.3372)	Prec@1 92.969 (91.590)
+ * Prec@1 91.560
+ADC: cco, Bits: 7
+Test Accuracy:91.56
+------------------------------X--------------------------------
+Test results for MC iteration: 54
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 54
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.868 (0.868)	Loss 0.1774 (0.1774)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.515 (0.532)	Loss 0.1902 (0.2355)	Prec@1 94.531 (92.816)
+ * Prec@1 92.860
+ADC: cco, Bits: 7
+Test Accuracy:92.86
+------------------------------X--------------------------------
+Test results for MC iteration: 55
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 55
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.799 (0.799)	Loss 0.2082 (0.2082)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.566 (0.532)	Loss 0.2321 (0.2784)	Prec@1 94.531 (92.509)
+ * Prec@1 92.530
+ADC: cco, Bits: 7
+Test Accuracy:92.53
+------------------------------X--------------------------------
+Test results for MC iteration: 56
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 56
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.776 (0.776)	Loss 0.2090 (0.2090)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.536 (0.519)	Loss 0.2734 (0.2576)	Prec@1 89.844 (91.345)
+ * Prec@1 91.300
+ADC: cco, Bits: 7
+Test Accuracy:91.3
+------------------------------X--------------------------------
+Test results for MC iteration: 57
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 57
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.763 (0.763)	Loss 0.2506 (0.2506)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.503 (0.512)	Loss 0.3916 (0.4056)	Prec@1 92.188 (90.411)
+ * Prec@1 90.400
+ADC: cco, Bits: 7
+Test Accuracy:90.4
+------------------------------X--------------------------------
+Test results for MC iteration: 58
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 58
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.818 (0.818)	Loss 0.1827 (0.1827)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.507 (0.519)	Loss 0.1843 (0.2368)	Prec@1 94.531 (92.862)
+ * Prec@1 92.860
+ADC: cco, Bits: 7
+Test Accuracy:92.86
+------------------------------X--------------------------------
+Test results for MC iteration: 59
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 59
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.796 (0.796)	Loss 0.2326 (0.2326)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.522 (0.524)	Loss 0.2612 (0.3073)	Prec@1 94.531 (91.973)
+ * Prec@1 91.950
+ADC: cco, Bits: 7
+Test Accuracy:91.95
+------------------------------X--------------------------------
+Test results for MC iteration: 60
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 60
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.820 (0.820)	Loss 0.1840 (0.1840)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.511 (0.527)	Loss 0.1971 (0.2336)	Prec@1 94.531 (92.463)
+ * Prec@1 92.540
+ADC: cco, Bits: 7
+Test Accuracy:92.54
+------------------------------X--------------------------------
+Test results for MC iteration: 61
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 61
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.798 (0.798)	Loss 0.1865 (0.1865)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.509 (0.523)	Loss 0.1974 (0.2479)	Prec@1 95.312 (92.923)
+ * Prec@1 92.980
+ADC: cco, Bits: 7
+Test Accuracy:92.98
+------------------------------X--------------------------------
+Test results for MC iteration: 62
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 62
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.927 (0.927)	Loss 0.1895 (0.1895)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.524 (0.539)	Loss 0.2026 (0.2418)	Prec@1 94.531 (92.463)
+ * Prec@1 92.580
+ADC: cco, Bits: 7
+Test Accuracy:92.58
+------------------------------X--------------------------------
+Test results for MC iteration: 63
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 63
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.838 (0.838)	Loss 0.1887 (0.1887)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.512 (0.532)	Loss 0.1862 (0.2354)	Prec@1 94.531 (92.862)
+ * Prec@1 92.870
+ADC: cco, Bits: 7
+Test Accuracy:92.87
+------------------------------X--------------------------------
+Test results for MC iteration: 64
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 64
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.767 (0.767)	Loss 0.1934 (0.1934)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.524 (0.526)	Loss 0.2046 (0.2553)	Prec@1 95.312 (92.892)
+ * Prec@1 92.920
+ADC: cco, Bits: 7
+Test Accuracy:92.92
+------------------------------X--------------------------------
+Test results for MC iteration: 65
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 65
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.804 (0.804)	Loss 0.1834 (0.1834)	Prec@1 92.188 (92.188)
+Test: [50/79]	Time 0.547 (0.528)	Loss 0.2037 (0.2329)	Prec@1 93.750 (92.525)
+ * Prec@1 92.560
+ADC: cco, Bits: 7
+Test Accuracy:92.56
+------------------------------X--------------------------------
+Test results for MC iteration: 66
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 66
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 1.010 (1.010)	Loss 0.2174 (0.2174)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.523 (0.535)	Loss 0.2758 (0.3178)	Prec@1 94.531 (91.774)
+ * Prec@1 91.860
+ADC: cco, Bits: 7
+Test Accuracy:91.86
+------------------------------X--------------------------------
+Test results for MC iteration: 67
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 67
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.785 (0.785)	Loss 0.1826 (0.1826)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.512 (0.527)	Loss 0.1902 (0.2323)	Prec@1 94.531 (92.555)
+ * Prec@1 92.610
+ADC: cco, Bits: 7
+Test Accuracy:92.61
+------------------------------X--------------------------------
+Test results for MC iteration: 68
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 68
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.828 (0.828)	Loss 0.2172 (0.2172)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.539 (0.539)	Loss 0.2815 (0.3145)	Prec@1 94.531 (91.850)
+ * Prec@1 91.890
+ADC: cco, Bits: 7
+Test Accuracy:91.89
+------------------------------X--------------------------------
+Test results for MC iteration: 69
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 69
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.831 (0.831)	Loss 0.1941 (0.1941)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.537 (0.540)	Loss 0.2084 (0.2531)	Prec@1 95.312 (92.785)
+ * Prec@1 92.860
+ADC: cco, Bits: 7
+Test Accuracy:92.86
+------------------------------X--------------------------------
+Test results for MC iteration: 70
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 70
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.842 (0.842)	Loss 0.1857 (0.1857)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.514 (0.536)	Loss 0.1988 (0.2482)	Prec@1 95.312 (93.015)
+ * Prec@1 93.060
+ADC: cco, Bits: 7
+Test Accuracy:93.06
+------------------------------X--------------------------------
+Test results for MC iteration: 71
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 71
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.832 (0.832)	Loss 0.1845 (0.1845)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.526 (0.535)	Loss 0.1890 (0.2338)	Prec@1 94.531 (92.708)
+ * Prec@1 92.800
+ADC: cco, Bits: 7
+Test Accuracy:92.8
+------------------------------X--------------------------------
+Test results for MC iteration: 72
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 72
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.762 (0.762)	Loss 0.2521 (0.2521)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.582 (0.536)	Loss 0.3766 (0.3920)	Prec@1 92.188 (90.625)
+ * Prec@1 90.610
+ADC: cco, Bits: 7
+Test Accuracy:90.61
+------------------------------X--------------------------------
+Test results for MC iteration: 73
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 73
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.795 (0.795)	Loss 0.2071 (0.2071)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.527 (0.535)	Loss 0.2411 (0.2819)	Prec@1 94.531 (92.356)
+ * Prec@1 92.380
+ADC: cco, Bits: 7
+Test Accuracy:92.38
+------------------------------X--------------------------------
+Test results for MC iteration: 74
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 74
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.776 (0.776)	Loss 0.1982 (0.1982)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.524 (0.516)	Loss 0.2116 (0.2585)	Prec@1 95.312 (92.846)
+ * Prec@1 92.930
+ADC: cco, Bits: 7
+Test Accuracy:92.93
+------------------------------X--------------------------------
+Test results for MC iteration: 75
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 75
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.768 (0.768)	Loss 0.2139 (0.2139)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.493 (0.507)	Loss 0.2494 (0.2885)	Prec@1 94.531 (92.172)
+ * Prec@1 92.220
+ADC: cco, Bits: 7
+Test Accuracy:92.22
+------------------------------X--------------------------------
+Test results for MC iteration: 76
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 76
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.802 (0.802)	Loss 0.1926 (0.1926)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.503 (0.510)	Loss 0.2150 (0.2626)	Prec@1 95.312 (92.770)
+ * Prec@1 92.830
+ADC: cco, Bits: 7
+Test Accuracy:92.83
+------------------------------X--------------------------------
+Test results for MC iteration: 77
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 77
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.754 (0.754)	Loss 0.1861 (0.1861)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.520 (0.533)	Loss 0.1853 (0.2336)	Prec@1 94.531 (92.724)
+ * Prec@1 92.770
+ADC: cco, Bits: 7
+Test Accuracy:92.77
+------------------------------X--------------------------------
+Test results for MC iteration: 78
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 78
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.826 (0.826)	Loss 0.2382 (0.2382)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.536 (0.535)	Loss 0.3399 (0.3626)	Prec@1 92.969 (91.222)
+ * Prec@1 91.150
+ADC: cco, Bits: 7
+Test Accuracy:91.15
+------------------------------X--------------------------------
+Test results for MC iteration: 79
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 79
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.781 (0.781)	Loss 0.1764 (0.1764)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.534 (0.529)	Loss 0.1999 (0.2399)	Prec@1 94.531 (92.862)
+ * Prec@1 92.900
+ADC: cco, Bits: 7
+Test Accuracy:92.9
+------------------------------X--------------------------------
+Test results for MC iteration: 80
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 80
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.779 (0.779)	Loss 0.3028 (0.3028)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.526 (0.520)	Loss 0.5361 (0.5305)	Prec@1 89.062 (88.128)
+ * Prec@1 88.220
+ADC: cco, Bits: 7
+Test Accuracy:88.22
+------------------------------X--------------------------------
+Test results for MC iteration: 81
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 81
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.876 (0.876)	Loss 0.2599 (0.2599)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.514 (0.521)	Loss 0.4301 (0.4374)	Prec@1 91.406 (89.828)
+ * Prec@1 89.750
+ADC: cco, Bits: 7
+Test Accuracy:89.75
+------------------------------X--------------------------------
+Test results for MC iteration: 82
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 82
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.808 (0.808)	Loss 0.1880 (0.1880)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.560 (0.534)	Loss 0.1839 (0.2372)	Prec@1 94.531 (92.907)
+ * Prec@1 92.910
+ADC: cco, Bits: 7
+Test Accuracy:92.91
+------------------------------X--------------------------------
+Test results for MC iteration: 83
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 83
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.793 (0.793)	Loss 0.1833 (0.1833)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.522 (0.535)	Loss 0.1933 (0.2379)	Prec@1 94.531 (92.708)
+ * Prec@1 92.810
+ADC: cco, Bits: 7
+Test Accuracy:92.81
+------------------------------X--------------------------------
+Test results for MC iteration: 84
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 84
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.828 (0.828)	Loss 0.1842 (0.1842)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.526 (0.535)	Loss 0.1950 (0.2373)	Prec@1 94.531 (92.555)
+ * Prec@1 92.700
+ADC: cco, Bits: 7
+Test Accuracy:92.7
+------------------------------X--------------------------------
+Test results for MC iteration: 85
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 85
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.803 (0.803)	Loss 0.1751 (0.1751)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.522 (0.534)	Loss 0.1889 (0.2397)	Prec@1 94.531 (92.831)
+ * Prec@1 92.880
+ADC: cco, Bits: 7
+Test Accuracy:92.88
+------------------------------X--------------------------------
+Test results for MC iteration: 86
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 86
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.812 (0.812)	Loss 0.2516 (0.2516)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.530 (0.531)	Loss 0.3645 (0.3828)	Prec@1 92.188 (90.656)
+ * Prec@1 90.640
+ADC: cco, Bits: 7
+Test Accuracy:90.64
+------------------------------X--------------------------------
+Test results for MC iteration: 87
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 87
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.810 (0.810)	Loss 0.1872 (0.1872)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.538 (0.538)	Loss 0.1995 (0.2361)	Prec@1 94.531 (92.616)
+ * Prec@1 92.660
+ADC: cco, Bits: 7
+Test Accuracy:92.66
+------------------------------X--------------------------------
+Test results for MC iteration: 88
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 88
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.839 (0.839)	Loss 0.1857 (0.1857)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.521 (0.535)	Loss 0.1973 (0.2365)	Prec@1 94.531 (92.724)
+ * Prec@1 92.780
+ADC: cco, Bits: 7
+Test Accuracy:92.78
+------------------------------X--------------------------------
+Test results for MC iteration: 89
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 89
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.787 (0.787)	Loss 0.1816 (0.1816)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.520 (0.539)	Loss 0.1921 (0.2412)	Prec@1 94.531 (92.969)
+ * Prec@1 92.940
+ADC: cco, Bits: 7
+Test Accuracy:92.94
+------------------------------X--------------------------------
+Test results for MC iteration: 90
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 90
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.879 (0.879)	Loss 0.2593 (0.2593)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.514 (0.524)	Loss 0.4129 (0.4194)	Prec@1 90.625 (89.966)
+ * Prec@1 90.020
+ADC: cco, Bits: 7
+Test Accuracy:90.02
+------------------------------X--------------------------------
+Test results for MC iteration: 91
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 91
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.879 (0.879)	Loss 0.1807 (0.1807)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.528 (0.531)	Loss 0.1978 (0.2421)	Prec@1 94.531 (92.907)
+ * Prec@1 92.910
+ADC: cco, Bits: 7
+Test Accuracy:92.91
+------------------------------X--------------------------------
+Test results for MC iteration: 92
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 92
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.796 (0.796)	Loss 0.1905 (0.1905)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.497 (0.528)	Loss 0.1877 (0.2329)	Prec@1 94.531 (92.601)
+ * Prec@1 92.670
+ADC: cco, Bits: 7
+Test Accuracy:92.67
+------------------------------X--------------------------------
+Test results for MC iteration: 93
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 93
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.821 (0.821)	Loss 0.2508 (0.2508)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.495 (0.514)	Loss 0.3815 (0.3983)	Prec@1 92.188 (90.411)
+ * Prec@1 90.420
+ADC: cco, Bits: 7
+Test Accuracy:90.42
+------------------------------X--------------------------------
+Test results for MC iteration: 94
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 94
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.776 (0.776)	Loss 0.1791 (0.1791)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.498 (0.516)	Loss 0.1953 (0.2450)	Prec@1 94.531 (92.724)
+ * Prec@1 92.690
+ADC: cco, Bits: 7
+Test Accuracy:92.69
+------------------------------X--------------------------------
+Test results for MC iteration: 95
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 95
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.764 (0.764)	Loss 0.2161 (0.2161)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.513 (0.515)	Loss 0.2388 (0.2865)	Prec@1 94.531 (92.249)
+ * Prec@1 92.360
+ADC: cco, Bits: 7
+Test Accuracy:92.36
+------------------------------X--------------------------------
+Test results for MC iteration: 96
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 96
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.771 (0.771)	Loss 0.1922 (0.1922)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.531 (0.528)	Loss 0.2464 (0.2481)	Prec@1 91.406 (91.927)
+ * Prec@1 91.880
+ADC: cco, Bits: 7
+Test Accuracy:91.88
+------------------------------X--------------------------------
+Test results for MC iteration: 97
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 97
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.780 (0.780)	Loss 0.2167 (0.2167)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.538 (0.528)	Loss 0.2372 (0.2815)	Prec@1 95.312 (92.433)
+ * Prec@1 92.470
+ADC: cco, Bits: 7
+Test Accuracy:92.47
+------------------------------X--------------------------------
+Test results for MC iteration: 98
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 98
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.807 (0.807)	Loss 0.2534 (0.2534)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.517 (0.525)	Loss 0.3989 (0.4048)	Prec@1 91.406 (90.456)
+ * Prec@1 90.450
+ADC: cco, Bits: 7
+Test Accuracy:90.45
+------------------------------X--------------------------------
+Test results for MC iteration: 99
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 99
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.838 (0.838)	Loss 0.1941 (0.1941)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.515 (0.532)	Loss 0.2215 (0.2631)	Prec@1 95.312 (92.739)
+ * Prec@1 92.820
+ADC: cco, Bits: 7
+Test Accuracy:92.82
+------------------------------X--------------------------------
+Test results for MC iteration: 100
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 100
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.852 (0.852)	Loss 0.1920 (0.1920)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.534 (0.540)	Loss 0.2248 (0.2631)	Prec@1 95.312 (92.831)
+ * Prec@1 92.870
+ADC: cco, Bits: 7
+Test Accuracy:92.87
+------------------------------X--------------------------------
+Test results for MC iteration: 101
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 101
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.880 (0.880)	Loss 0.1954 (0.1954)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.509 (0.540)	Loss 0.2176 (0.2618)	Prec@1 95.312 (92.693)
+ * Prec@1 92.780
+ADC: cco, Bits: 7
+Test Accuracy:92.78
+------------------------------X--------------------------------
+Test results for MC iteration: 102
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 102
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.825 (0.825)	Loss 0.1911 (0.1911)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.515 (0.536)	Loss 0.2088 (0.2547)	Prec@1 95.312 (92.862)
+ * Prec@1 92.950
+ADC: cco, Bits: 7
+Test Accuracy:92.95
+------------------------------X--------------------------------
+Test results for MC iteration: 103
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 103
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.793 (0.793)	Loss 0.1949 (0.1949)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.522 (0.537)	Loss 0.2305 (0.2687)	Prec@1 94.531 (92.678)
+ * Prec@1 92.720
+ADC: cco, Bits: 7
+Test Accuracy:92.72
+------------------------------X--------------------------------
+Test results for MC iteration: 104
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 104
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.785 (0.785)	Loss 0.2179 (0.2179)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.515 (0.534)	Loss 0.2640 (0.3038)	Prec@1 94.531 (91.896)
+ * Prec@1 91.990
+ADC: cco, Bits: 7
+Test Accuracy:91.99
+------------------------------X--------------------------------
+Test results for MC iteration: 105
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 105
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.817 (0.817)	Loss 0.2021 (0.2021)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.511 (0.526)	Loss 0.2401 (0.2776)	Prec@1 94.531 (92.433)
+ * Prec@1 92.500
+ADC: cco, Bits: 7
+Test Accuracy:92.5
+------------------------------X--------------------------------
+Test results for MC iteration: 106
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 106
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.811 (0.811)	Loss 0.2260 (0.2260)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.541 (0.526)	Loss 0.2516 (0.3019)	Prec@1 94.531 (91.958)
+ * Prec@1 92.040
+ADC: cco, Bits: 7
+Test Accuracy:92.04
+------------------------------X--------------------------------
+Test results for MC iteration: 107
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 107
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.820 (0.820)	Loss 0.2193 (0.2193)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.512 (0.521)	Loss 0.2662 (0.3030)	Prec@1 94.531 (92.034)
+ * Prec@1 92.080
+ADC: cco, Bits: 7
+Test Accuracy:92.08
+------------------------------X--------------------------------
+Test results for MC iteration: 108
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 108
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.844 (0.844)	Loss 0.1807 (0.1807)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.551 (0.542)	Loss 0.2159 (0.2384)	Prec@1 94.531 (92.402)
+ * Prec@1 92.420
+ADC: cco, Bits: 7
+Test Accuracy:92.42
+------------------------------X--------------------------------
+Test results for MC iteration: 109
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 109
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.804 (0.804)	Loss 0.2472 (0.2472)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.524 (0.532)	Loss 0.2895 (0.3289)	Prec@1 93.750 (91.544)
+ * Prec@1 91.460
+ADC: cco, Bits: 7
+Test Accuracy:91.46
+------------------------------X--------------------------------
+Test results for MC iteration: 110
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 110
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.784 (0.784)	Loss 0.1825 (0.1825)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.533 (0.536)	Loss 0.2025 (0.2341)	Prec@1 93.750 (92.371)
+ * Prec@1 92.450
+ADC: cco, Bits: 7
+Test Accuracy:92.45
+------------------------------X--------------------------------
+Test results for MC iteration: 111
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 111
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.812 (0.812)	Loss 0.2061 (0.2061)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.512 (0.516)	Loss 0.2283 (0.2792)	Prec@1 95.312 (92.509)
+ * Prec@1 92.520
+ADC: cco, Bits: 7
+Test Accuracy:92.52
+------------------------------X--------------------------------
+Test results for MC iteration: 112
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 112
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.794 (0.794)	Loss 0.2039 (0.2039)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.505 (0.509)	Loss 0.2467 (0.2807)	Prec@1 94.531 (92.494)
+ * Prec@1 92.500
+ADC: cco, Bits: 7
+Test Accuracy:92.5
+------------------------------X--------------------------------
+Test results for MC iteration: 113
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 113
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.775 (0.775)	Loss 0.1874 (0.1874)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.517 (0.509)	Loss 0.2036 (0.2340)	Prec@1 94.531 (92.494)
+ * Prec@1 92.580
+ADC: cco, Bits: 7
+Test Accuracy:92.58
+------------------------------X--------------------------------
+Test results for MC iteration: 114
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 114
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.839 (0.839)	Loss 0.1812 (0.1812)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.535 (0.527)	Loss 0.1887 (0.2357)	Prec@1 94.531 (92.800)
+ * Prec@1 92.830
+ADC: cco, Bits: 7
+Test Accuracy:92.83
+------------------------------X--------------------------------
+Test results for MC iteration: 115
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 115
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.802 (0.802)	Loss 0.2283 (0.2283)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.548 (0.534)	Loss 0.3090 (0.3329)	Prec@1 93.750 (91.651)
+ * Prec@1 91.680
+ADC: cco, Bits: 7
+Test Accuracy:91.68
+------------------------------X--------------------------------
+Test results for MC iteration: 116
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 116
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.792 (0.792)	Loss 0.1988 (0.1988)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.530 (0.537)	Loss 0.2514 (0.2494)	Prec@1 92.188 (91.805)
+ * Prec@1 91.820
+ADC: cco, Bits: 7
+Test Accuracy:91.82
+------------------------------X--------------------------------
+Test results for MC iteration: 117
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 117
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.872 (0.872)	Loss 0.1838 (0.1838)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.536 (0.537)	Loss 0.2029 (0.2459)	Prec@1 95.312 (92.938)
+ * Prec@1 93.000
+ADC: cco, Bits: 7
+Test Accuracy:93.0
+------------------------------X--------------------------------
+Test results for MC iteration: 118
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 118
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.781 (0.781)	Loss 0.1834 (0.1834)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.535 (0.533)	Loss 0.1996 (0.2495)	Prec@1 95.312 (92.846)
+ * Prec@1 92.860
+ADC: cco, Bits: 7
+Test Accuracy:92.86
+------------------------------X--------------------------------
+Test results for MC iteration: 119
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 119
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.796 (0.796)	Loss 0.2382 (0.2382)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.513 (0.531)	Loss 0.3314 (0.3575)	Prec@1 92.969 (91.253)
+ * Prec@1 91.230
+ADC: cco, Bits: 7
+Test Accuracy:91.23
+------------------------------X--------------------------------
+Test results for MC iteration: 120
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 120
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.828 (0.828)	Loss 0.2367 (0.2367)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.521 (0.534)	Loss 0.3072 (0.3362)	Prec@1 93.750 (91.636)
+ * Prec@1 91.570
+ADC: cco, Bits: 7
+Test Accuracy:91.57
+------------------------------X--------------------------------
+Test results for MC iteration: 121
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 121
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.776 (0.776)	Loss 0.1911 (0.1911)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.518 (0.525)	Loss 0.2002 (0.2500)	Prec@1 95.312 (92.831)
+ * Prec@1 92.930
+ADC: cco, Bits: 7
+Test Accuracy:92.93
+------------------------------X--------------------------------
+Test results for MC iteration: 122
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 122
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.768 (0.768)	Loss 0.1930 (0.1930)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.521 (0.524)	Loss 0.2014 (0.2474)	Prec@1 95.312 (92.984)
+ * Prec@1 93.000
+ADC: cco, Bits: 7
+Test Accuracy:93.0
+------------------------------X--------------------------------
+Test results for MC iteration: 123
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 123
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.774 (0.774)	Loss 0.2162 (0.2162)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.507 (0.527)	Loss 0.2483 (0.2916)	Prec@1 94.531 (92.264)
+ * Prec@1 92.330
+ADC: cco, Bits: 7
+Test Accuracy:92.33
+------------------------------X--------------------------------
+Test results for MC iteration: 124
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 124
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.787 (0.787)	Loss 0.1950 (0.1950)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.574 (0.537)	Loss 0.2401 (0.2758)	Prec@1 94.531 (92.586)
+ * Prec@1 92.620
+ADC: cco, Bits: 7
+Test Accuracy:92.62
+------------------------------X--------------------------------
+Test results for MC iteration: 125
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 125
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.806 (0.806)	Loss 0.1810 (0.1810)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.571 (0.537)	Loss 0.1958 (0.2344)	Prec@1 94.531 (92.555)
+ * Prec@1 92.690
+ADC: cco, Bits: 7
+Test Accuracy:92.69
+------------------------------X--------------------------------
+Test results for MC iteration: 126
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 126
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.813 (0.813)	Loss 0.1859 (0.1859)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.528 (0.535)	Loss 0.1951 (0.2349)	Prec@1 94.531 (92.693)
+ * Prec@1 92.760
+ADC: cco, Bits: 7
+Test Accuracy:92.76
+------------------------------X--------------------------------
+Test results for MC iteration: 127
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 127
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.801 (0.801)	Loss 0.1980 (0.1980)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.538 (0.533)	Loss 0.2132 (0.2611)	Prec@1 95.312 (92.678)
+ * Prec@1 92.870
+ADC: cco, Bits: 7
+Test Accuracy:92.87
+------------------------------X--------------------------------
+Test results for MC iteration: 128
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 128
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.816 (0.816)	Loss 0.1950 (0.1950)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.504 (0.531)	Loss 0.2297 (0.2680)	Prec@1 94.531 (92.693)
+ * Prec@1 92.710
+ADC: cco, Bits: 7
+Test Accuracy:92.71
+------------------------------X--------------------------------
+Test results for MC iteration: 129
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 129
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.856 (0.856)	Loss 0.2053 (0.2053)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.489 (0.524)	Loss 0.2439 (0.2829)	Prec@1 94.531 (92.417)
+ * Prec@1 92.430
+ADC: cco, Bits: 7
+Test Accuracy:92.43
+------------------------------X--------------------------------
+Test results for MC iteration: 130
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 130
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.757 (0.757)	Loss 0.2013 (0.2013)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.497 (0.508)	Loss 0.2247 (0.2708)	Prec@1 95.312 (92.555)
+ * Prec@1 92.610
+ADC: cco, Bits: 7
+Test Accuracy:92.61
+------------------------------X--------------------------------
+Test results for MC iteration: 131
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 131
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.795 (0.795)	Loss 0.1869 (0.1869)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.506 (0.515)	Loss 0.2097 (0.2362)	Prec@1 93.750 (92.203)
+ * Prec@1 92.340
+ADC: cco, Bits: 7
+Test Accuracy:92.34
+------------------------------X--------------------------------
+Test results for MC iteration: 132
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 132
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.810 (0.810)	Loss 0.2251 (0.2251)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.527 (0.525)	Loss 0.2465 (0.2970)	Prec@1 94.531 (92.034)
+ * Prec@1 92.090
+ADC: cco, Bits: 7
+Test Accuracy:92.09
+------------------------------X--------------------------------
+Test results for MC iteration: 133
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 133
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.877 (0.877)	Loss 0.1895 (0.1895)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.526 (0.538)	Loss 0.2300 (0.2418)	Prec@1 92.188 (91.942)
+ * Prec@1 92.030
+ADC: cco, Bits: 7
+Test Accuracy:92.03
+------------------------------X--------------------------------
+Test results for MC iteration: 134
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 134
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.819 (0.819)	Loss 0.2190 (0.2190)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.537 (0.532)	Loss 0.2604 (0.3009)	Prec@1 94.531 (91.942)
+ * Prec@1 92.050
+ADC: cco, Bits: 7
+Test Accuracy:92.05
+------------------------------X--------------------------------
+Test results for MC iteration: 135
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 135
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.890 (0.890)	Loss 0.1915 (0.1915)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.561 (0.536)	Loss 0.2343 (0.2428)	Prec@1 92.969 (92.050)
+ * Prec@1 92.120
+ADC: cco, Bits: 7
+Test Accuracy:92.12
+------------------------------X--------------------------------
+Test results for MC iteration: 136
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 136
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.779 (0.779)	Loss 0.2239 (0.2239)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.509 (0.525)	Loss 0.2591 (0.3034)	Prec@1 94.531 (92.096)
+ * Prec@1 92.070
+ADC: cco, Bits: 7
+Test Accuracy:92.07
+------------------------------X--------------------------------
+Test results for MC iteration: 137
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 137
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.784 (0.784)	Loss 0.1829 (0.1829)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.533 (0.532)	Loss 0.2114 (0.2380)	Prec@1 93.750 (92.356)
+ * Prec@1 92.390
+ADC: cco, Bits: 7
+Test Accuracy:92.39
+------------------------------X--------------------------------
+Test results for MC iteration: 138
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 138
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.810 (0.810)	Loss 0.2184 (0.2184)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.521 (0.529)	Loss 0.2682 (0.3110)	Prec@1 94.531 (91.896)
+ * Prec@1 91.970
+ADC: cco, Bits: 7
+Test Accuracy:91.97
+------------------------------X--------------------------------
+Test results for MC iteration: 139
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 139
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.838 (0.838)	Loss 0.2137 (0.2137)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.517 (0.527)	Loss 0.2381 (0.2805)	Prec@1 94.531 (92.417)
+ * Prec@1 92.400
+ADC: cco, Bits: 7
+Test Accuracy:92.4
+------------------------------X--------------------------------
+Test results for MC iteration: 140
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 140
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.782 (0.782)	Loss 0.2051 (0.2051)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.522 (0.537)	Loss 0.2296 (0.2746)	Prec@1 95.312 (92.616)
+ * Prec@1 92.630
+ADC: cco, Bits: 7
+Test Accuracy:92.63
+------------------------------X--------------------------------
+Test results for MC iteration: 141
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 141
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.767 (0.767)	Loss 0.1913 (0.1913)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.507 (0.533)	Loss 0.2333 (0.2691)	Prec@1 94.531 (92.662)
+ * Prec@1 92.640
+ADC: cco, Bits: 7
+Test Accuracy:92.64
+------------------------------X--------------------------------
+Test results for MC iteration: 142
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 142
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.845 (0.845)	Loss 0.2056 (0.2056)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.513 (0.531)	Loss 0.2237 (0.2675)	Prec@1 95.312 (92.632)
+ * Prec@1 92.720
+ADC: cco, Bits: 7
+Test Accuracy:92.72
+------------------------------X--------------------------------
+Test results for MC iteration: 143
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 143
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.799 (0.799)	Loss 0.1904 (0.1904)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.523 (0.530)	Loss 0.1976 (0.2458)	Prec@1 95.312 (92.892)
+ * Prec@1 92.930
+ADC: cco, Bits: 7
+Test Accuracy:92.93
+------------------------------X--------------------------------
+Test results for MC iteration: 144
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 144
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.788 (0.788)	Loss 0.1801 (0.1801)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.523 (0.532)	Loss 0.1984 (0.2464)	Prec@1 95.312 (92.923)
+ * Prec@1 92.960
+ADC: cco, Bits: 7
+Test Accuracy:92.96
+------------------------------X--------------------------------
+Test results for MC iteration: 145
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 145
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.784 (0.784)	Loss 0.2397 (0.2397)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.505 (0.524)	Loss 0.3794 (0.3958)	Prec@1 92.188 (90.564)
+ * Prec@1 90.610
+ADC: cco, Bits: 7
+Test Accuracy:90.61
+------------------------------X--------------------------------
+Test results for MC iteration: 146
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 146
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.755 (0.755)	Loss 0.2436 (0.2436)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.509 (0.524)	Loss 0.3337 (0.3552)	Prec@1 92.969 (91.268)
+ * Prec@1 91.240
+ADC: cco, Bits: 7
+Test Accuracy:91.24
+------------------------------X--------------------------------
+Test results for MC iteration: 147
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 147
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.784 (0.784)	Loss 0.1869 (0.1869)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.541 (0.529)	Loss 0.1872 (0.2361)	Prec@1 94.531 (92.862)
+ * Prec@1 92.930
+ADC: cco, Bits: 7
+Test Accuracy:92.93
+------------------------------X--------------------------------
+Test results for MC iteration: 148
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 148
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.809 (0.809)	Loss 0.1831 (0.1831)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.507 (0.518)	Loss 0.1978 (0.2332)	Prec@1 94.531 (92.693)
+ * Prec@1 92.710
+ADC: cco, Bits: 7
+Test Accuracy:92.71
+------------------------------X--------------------------------
+Test results for MC iteration: 149
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 149
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.796 (0.796)	Loss 0.2087 (0.2087)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.502 (0.515)	Loss 0.2399 (0.2826)	Prec@1 94.531 (92.341)
+ * Prec@1 92.410
+ADC: cco, Bits: 7
+Test Accuracy:92.41
+------------------------------X--------------------------------
+Test results for MC iteration: 150
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 150
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.779 (0.779)	Loss 0.1983 (0.1983)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.546 (0.517)	Loss 0.2282 (0.2730)	Prec@1 95.312 (92.693)
+ * Prec@1 92.680
+ADC: cco, Bits: 7
+Test Accuracy:92.68
+------------------------------X--------------------------------
+Test results for MC iteration: 151
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 151
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.800 (0.800)	Loss 0.1873 (0.1873)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.546 (0.531)	Loss 0.1892 (0.2323)	Prec@1 94.531 (92.662)
+ * Prec@1 92.680
+ADC: cco, Bits: 7
+Test Accuracy:92.68
+------------------------------X--------------------------------
+Test results for MC iteration: 152
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 152
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.765 (0.765)	Loss 0.2774 (0.2774)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.511 (0.522)	Loss 0.4752 (0.4693)	Prec@1 89.844 (89.185)
+ * Prec@1 89.140
+ADC: cco, Bits: 7
+Test Accuracy:89.14
+------------------------------X--------------------------------
+Test results for MC iteration: 153
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 153
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.778 (0.778)	Loss 0.1942 (0.1942)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.505 (0.523)	Loss 0.2195 (0.2618)	Prec@1 95.312 (92.816)
+ * Prec@1 92.860
+ADC: cco, Bits: 7
+Test Accuracy:92.86
+------------------------------X--------------------------------
+Test results for MC iteration: 154
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 154
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.751 (0.751)	Loss 0.1925 (0.1925)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.526 (0.538)	Loss 0.2019 (0.2543)	Prec@1 95.312 (92.770)
+ * Prec@1 92.880
+ADC: cco, Bits: 7
+Test Accuracy:92.88
+------------------------------X--------------------------------
+Test results for MC iteration: 155
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 155
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.821 (0.821)	Loss 0.1836 (0.1836)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.537 (0.533)	Loss 0.1895 (0.2392)	Prec@1 94.531 (92.907)
+ * Prec@1 92.940
+ADC: cco, Bits: 7
+Test Accuracy:92.94
+------------------------------X--------------------------------
+Test results for MC iteration: 156
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 156
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.812 (0.812)	Loss 0.1830 (0.1830)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.534 (0.535)	Loss 0.1856 (0.2381)	Prec@1 94.531 (92.923)
+ * Prec@1 92.930
+ADC: cco, Bits: 7
+Test Accuracy:92.93
+------------------------------X--------------------------------
+Test results for MC iteration: 157
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 157
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.822 (0.822)	Loss 0.2217 (0.2217)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.513 (0.532)	Loss 0.2876 (0.3235)	Prec@1 93.750 (91.774)
+ * Prec@1 91.810
+ADC: cco, Bits: 7
+Test Accuracy:91.81
+------------------------------X--------------------------------
+Test results for MC iteration: 158
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 158
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.829 (0.829)	Loss 0.2207 (0.2207)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.541 (0.533)	Loss 0.2602 (0.3001)	Prec@1 94.531 (92.034)
+ * Prec@1 92.080
+ADC: cco, Bits: 7
+Test Accuracy:92.08
+------------------------------X--------------------------------
+Test results for MC iteration: 159
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 159
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.843 (0.843)	Loss 0.1863 (0.1863)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.525 (0.535)	Loss 0.2066 (0.2496)	Prec@1 95.312 (92.907)
+ * Prec@1 92.930
+ADC: cco, Bits: 7
+Test Accuracy:92.93
+------------------------------X--------------------------------
+Test results for MC iteration: 160
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 160
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.853 (0.853)	Loss 0.1900 (0.1900)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.537 (0.537)	Loss 0.2098 (0.2545)	Prec@1 95.312 (92.907)
+ * Prec@1 92.990
+ADC: cco, Bits: 7
+Test Accuracy:92.99
+------------------------------X--------------------------------
+Test results for MC iteration: 161
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 161
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.799 (0.799)	Loss 0.2211 (0.2211)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.525 (0.528)	Loss 0.2958 (0.3242)	Prec@1 94.531 (91.682)
+ * Prec@1 91.620
+ADC: cco, Bits: 7
+Test Accuracy:91.62
+------------------------------X--------------------------------
+Test results for MC iteration: 162
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 162
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.800 (0.800)	Loss 0.1868 (0.1868)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.522 (0.530)	Loss 0.2024 (0.2374)	Prec@1 94.531 (92.555)
+ * Prec@1 92.640
+ADC: cco, Bits: 7
+Test Accuracy:92.64
+------------------------------X--------------------------------
+Test results for MC iteration: 163
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 163
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.882 (0.882)	Loss 0.2270 (0.2270)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.506 (0.529)	Loss 0.3009 (0.3313)	Prec@1 94.531 (91.605)
+ * Prec@1 91.620
+ADC: cco, Bits: 7
+Test Accuracy:91.62
+------------------------------X--------------------------------
+Test results for MC iteration: 164
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 164
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.799 (0.799)	Loss 0.1780 (0.1780)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.511 (0.536)	Loss 0.1905 (0.2325)	Prec@1 94.531 (92.555)
+ * Prec@1 92.630
+ADC: cco, Bits: 7
+Test Accuracy:92.63
+------------------------------X--------------------------------
+Test results for MC iteration: 165
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 165
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.801 (0.801)	Loss 0.1853 (0.1853)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.549 (0.535)	Loss 0.2212 (0.2608)	Prec@1 95.312 (92.846)
+ * Prec@1 92.930
+ADC: cco, Bits: 7
+Test Accuracy:92.93
+------------------------------X--------------------------------
+Test results for MC iteration: 166
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 166
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.901 (0.901)	Loss 0.2056 (0.2056)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.495 (0.521)	Loss 0.1934 (0.2481)	Prec@1 95.312 (92.862)
+ * Prec@1 92.920
+ADC: cco, Bits: 7
+Test Accuracy:92.92
+------------------------------X--------------------------------
+Test results for MC iteration: 167
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 167
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.772 (0.772)	Loss 0.2268 (0.2268)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.511 (0.505)	Loss 0.3054 (0.3326)	Prec@1 93.750 (91.605)
+ * Prec@1 91.610
+ADC: cco, Bits: 7
+Test Accuracy:91.61
+------------------------------X--------------------------------
+Test results for MC iteration: 168
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 168
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.794 (0.794)	Loss 0.1885 (0.1885)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.501 (0.511)	Loss 0.2106 (0.2430)	Prec@1 94.531 (92.295)
+ * Prec@1 92.450
+ADC: cco, Bits: 7
+Test Accuracy:92.45
+------------------------------X--------------------------------
+Test results for MC iteration: 169
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 169
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.769 (0.769)	Loss 0.1877 (0.1877)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.541 (0.530)	Loss 0.2106 (0.2547)	Prec@1 95.312 (92.724)
+ * Prec@1 92.840
+ADC: cco, Bits: 7
+Test Accuracy:92.84
+------------------------------X--------------------------------
+Test results for MC iteration: 170
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 170
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.790 (0.790)	Loss 0.1886 (0.1886)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.529 (0.534)	Loss 0.2062 (0.2532)	Prec@1 95.312 (92.938)
+ * Prec@1 92.960
+ADC: cco, Bits: 7
+Test Accuracy:92.96
+------------------------------X--------------------------------
+Test results for MC iteration: 171
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 171
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.788 (0.788)	Loss 0.1903 (0.1903)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.523 (0.536)	Loss 0.2021 (0.2522)	Prec@1 95.312 (92.892)
+ * Prec@1 92.940
+ADC: cco, Bits: 7
+Test Accuracy:92.94
+------------------------------X--------------------------------
+Test results for MC iteration: 172
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 172
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.807 (0.807)	Loss 0.1951 (0.1951)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.520 (0.532)	Loss 0.2121 (0.2594)	Prec@1 95.312 (92.770)
+ * Prec@1 92.860
+ADC: cco, Bits: 7
+Test Accuracy:92.86
+------------------------------X--------------------------------
+Test results for MC iteration: 173
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 173
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.852 (0.852)	Loss 0.2286 (0.2286)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.536 (0.535)	Loss 0.2933 (0.3266)	Prec@1 94.531 (91.667)
+ * Prec@1 91.660
+ADC: cco, Bits: 7
+Test Accuracy:91.66
+------------------------------X--------------------------------
+Test results for MC iteration: 174
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 174
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.779 (0.779)	Loss 0.1833 (0.1833)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.536 (0.534)	Loss 0.2048 (0.2369)	Prec@1 94.531 (92.463)
+ * Prec@1 92.530
+ADC: cco, Bits: 7
+Test Accuracy:92.53
+------------------------------X--------------------------------
+Test results for MC iteration: 175
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 175
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.823 (0.823)	Loss 0.2659 (0.2659)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.518 (0.531)	Loss 0.4679 (0.4619)	Prec@1 90.625 (89.522)
+ * Prec@1 89.490
+ADC: cco, Bits: 7
+Test Accuracy:89.49
+------------------------------X--------------------------------
+Test results for MC iteration: 176
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 176
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.885 (0.885)	Loss 0.1779 (0.1779)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.515 (0.530)	Loss 0.1944 (0.2423)	Prec@1 95.312 (93.045)
+ * Prec@1 93.090
+ADC: cco, Bits: 7
+Test Accuracy:93.09
+------------------------------X--------------------------------
+Test results for MC iteration: 177
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 177
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.793 (0.793)	Loss 0.1852 (0.1852)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.513 (0.532)	Loss 0.1793 (0.2389)	Prec@1 95.312 (92.907)
+ * Prec@1 92.940
+ADC: cco, Bits: 7
+Test Accuracy:92.94
+------------------------------X--------------------------------
+Test results for MC iteration: 178
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 178
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.771 (0.771)	Loss 0.1799 (0.1799)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.516 (0.524)	Loss 0.1952 (0.2425)	Prec@1 95.312 (92.969)
+ * Prec@1 92.920
+ADC: cco, Bits: 7
+Test Accuracy:92.92
+------------------------------X--------------------------------
+Test results for MC iteration: 179
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 179
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.855 (0.855)	Loss 0.1878 (0.1878)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.534 (0.531)	Loss 0.1880 (0.2420)	Prec@1 95.312 (92.892)
+ * Prec@1 92.900
+ADC: cco, Bits: 7
+Test Accuracy:92.9
+------------------------------X--------------------------------
+Test results for MC iteration: 180
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 180
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.769 (0.769)	Loss 0.2847 (0.2847)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.521 (0.526)	Loss 0.4940 (0.5049)	Prec@1 89.844 (88.572)
+ * Prec@1 88.490
+ADC: cco, Bits: 7
+Test Accuracy:88.49
+------------------------------X--------------------------------
+Test results for MC iteration: 181
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 181
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.829 (0.829)	Loss 0.1842 (0.1842)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.509 (0.536)	Loss 0.1896 (0.2378)	Prec@1 94.531 (92.846)
+ * Prec@1 92.910
+ADC: cco, Bits: 7
+Test Accuracy:92.91
+------------------------------X--------------------------------
+Test results for MC iteration: 182
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 182
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.806 (0.806)	Loss 0.1812 (0.1812)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.514 (0.529)	Loss 0.1923 (0.2396)	Prec@1 94.531 (92.923)
+ * Prec@1 92.970
+ADC: cco, Bits: 7
+Test Accuracy:92.97
+------------------------------X--------------------------------
+Test results for MC iteration: 183
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 183
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.785 (0.785)	Loss 0.1824 (0.1824)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.511 (0.526)	Loss 0.1806 (0.2372)	Prec@1 94.531 (92.953)
+ * Prec@1 92.930
+ADC: cco, Bits: 7
+Test Accuracy:92.93
+------------------------------X--------------------------------
+Test results for MC iteration: 184
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 184
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.829 (0.829)	Loss 0.2517 (0.2517)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.502 (0.519)	Loss 0.3788 (0.3935)	Prec@1 92.188 (90.548)
+ * Prec@1 90.530
+ADC: cco, Bits: 7
+Test Accuracy:90.53
+------------------------------X--------------------------------
+Test results for MC iteration: 185
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 185
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.760 (0.760)	Loss 0.1852 (0.1852)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.512 (0.521)	Loss 0.2215 (0.2389)	Prec@1 92.969 (92.172)
+ * Prec@1 92.230
+ADC: cco, Bits: 7
+Test Accuracy:92.23
+------------------------------X--------------------------------
+Test results for MC iteration: 186
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 186
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.808 (0.808)	Loss 0.1849 (0.1849)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.506 (0.516)	Loss 0.1916 (0.2361)	Prec@1 94.531 (92.570)
+ * Prec@1 92.700
+ADC: cco, Bits: 7
+Test Accuracy:92.7
+------------------------------X--------------------------------
+Test results for MC iteration: 187
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 187
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.759 (0.759)	Loss 0.2660 (0.2660)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.528 (0.514)	Loss 0.3706 (0.3981)	Prec@1 91.406 (90.533)
+ * Prec@1 90.480
+ADC: cco, Bits: 7
+Test Accuracy:90.48
+------------------------------X--------------------------------
+Test results for MC iteration: 188
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 188
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.880 (0.880)	Loss 0.1799 (0.1799)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.528 (0.536)	Loss 0.1907 (0.2390)	Prec@1 94.531 (92.969)
+ * Prec@1 92.930
+ADC: cco, Bits: 7
+Test Accuracy:92.93
+------------------------------X--------------------------------
+Test results for MC iteration: 189
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 189
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.792 (0.792)	Loss 0.1824 (0.1824)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.513 (0.537)	Loss 0.1830 (0.2363)	Prec@1 94.531 (92.907)
+ * Prec@1 92.940
+ADC: cco, Bits: 7
+Test Accuracy:92.94
+------------------------------X--------------------------------
+Test results for MC iteration: 190
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 190
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.824 (0.824)	Loss 0.1849 (0.1849)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.529 (0.536)	Loss 0.2053 (0.2389)	Prec@1 94.531 (92.448)
+ * Prec@1 92.590
+ADC: cco, Bits: 7
+Test Accuracy:92.59
+------------------------------X--------------------------------
+Test results for MC iteration: 191
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 191
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.806 (0.806)	Loss 0.1793 (0.1793)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.529 (0.536)	Loss 0.1993 (0.2466)	Prec@1 95.312 (92.938)
+ * Prec@1 92.980
+ADC: cco, Bits: 7
+Test Accuracy:92.98
+------------------------------X--------------------------------
+Test results for MC iteration: 192
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 192
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.796 (0.796)	Loss 0.1857 (0.1857)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.579 (0.537)	Loss 0.1990 (0.2482)	Prec@1 95.312 (92.969)
+ * Prec@1 92.990
+ADC: cco, Bits: 7
+Test Accuracy:92.99
+------------------------------X--------------------------------
+Test results for MC iteration: 193
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 193
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.819 (0.819)	Loss 0.1863 (0.1863)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.568 (0.538)	Loss 0.1972 (0.2478)	Prec@1 95.312 (92.862)
+ * Prec@1 92.920
+ADC: cco, Bits: 7
+Test Accuracy:92.92
+------------------------------X--------------------------------
+Test results for MC iteration: 194
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 194
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.797 (0.797)	Loss 0.1886 (0.1886)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.523 (0.528)	Loss 0.1913 (0.2430)	Prec@1 95.312 (92.923)
+ * Prec@1 92.980
+ADC: cco, Bits: 7
+Test Accuracy:92.98
+------------------------------X--------------------------------
+Test results for MC iteration: 195
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 195
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.773 (0.773)	Loss 0.1810 (0.1810)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.515 (0.526)	Loss 0.1886 (0.2383)	Prec@1 94.531 (92.846)
+ * Prec@1 92.880
+ADC: cco, Bits: 7
+Test Accuracy:92.88
+------------------------------X--------------------------------
+Test results for MC iteration: 196
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 196
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.820 (0.820)	Loss 0.2388 (0.2388)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.519 (0.530)	Loss 0.3801 (0.3963)	Prec@1 92.188 (90.564)
+ * Prec@1 90.620
+ADC: cco, Bits: 7
+Test Accuracy:90.62
+------------------------------X--------------------------------
+Test results for MC iteration: 197
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 197
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.878 (0.878)	Loss 0.3267 (0.3267)	Prec@1 92.188 (92.188)
+Test: [50/79]	Time 0.513 (0.527)	Loss 0.5712 (0.5720)	Prec@1 88.281 (87.286)
+ * Prec@1 87.450
+ADC: cco, Bits: 7
+Test Accuracy:87.45
+------------------------------X--------------------------------
+Test results for MC iteration: 198
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 198
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.805 (0.805)	Loss 0.1825 (0.1825)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.512 (0.530)	Loss 0.1890 (0.2367)	Prec@1 94.531 (92.846)
+ * Prec@1 92.900
+ADC: cco, Bits: 7
+Test Accuracy:92.9
+------------------------------X--------------------------------
+Test results for MC iteration: 199
+ADC Characteristics: Linear 10u CCO ADC MC, MC Index: 199
+Loading model from: cco_adc_10u.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 9.92e-06, Count Eval Param: 739900000.0
+Test: [0/79]	Time 0.766 (0.766)	Loss 0.1816 (0.1816)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.513 (0.525)	Loss 0.1875 (0.2343)	Prec@1 94.531 (92.800)
+ * Prec@1 92.890
+ADC: cco, Bits: 7
+Test Accuracy:92.89
+------------------------------X--------------------------------
+Max accuracy:93.09, Min accuracy: 87.45

@@ -1,0 +1,1305 @@
+['resnet20_adc']
+Dict ResNet(
+  (conv1): Conv2d(3, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (adc1): ADC()
+  (layer1): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl1): ADC()
+      (conv2): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl2): ADC()
+      (shortcut): Sequential()
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl1): ADC()
+      (conv2): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl2): ADC()
+      (shortcut): Sequential()
+    )
+    (2): BasicBlock(
+      (conv1): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl1): ADC()
+      (conv2): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl2): ADC()
+      (shortcut): Sequential()
+    )
+  )
+  (layer2): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(16, 32, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl1): ADC()
+      (conv2): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl2): ADC()
+      (shortcut): LambdaLayer()
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl1): ADC()
+      (conv2): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl2): ADC()
+      (shortcut): Sequential()
+    )
+    (2): BasicBlock(
+      (conv1): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl1): ADC()
+      (conv2): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl2): ADC()
+      (shortcut): Sequential()
+    )
+  )
+  (layer3): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(32, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl1): ADC()
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl2): ADC()
+      (shortcut): LambdaLayer()
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl1): ADC()
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl2): ADC()
+      (shortcut): Sequential()
+    )
+    (2): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl1): ADC()
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (adcl2): ADC()
+      (shortcut): Sequential()
+    )
+  )
+  (linear): Linear(in_features=64, out_features=10, bias=True)
+)
+DataParallel(
+  (module): ResNet(
+    (conv1): Conv2d(3, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (bn1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (adc1): ADC()
+    (layer1): Sequential(
+      (0): BasicBlock(
+        (conv1): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl1): ADC()
+        (conv2): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl2): ADC()
+        (shortcut): Sequential()
+      )
+      (1): BasicBlock(
+        (conv1): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl1): ADC()
+        (conv2): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl2): ADC()
+        (shortcut): Sequential()
+      )
+      (2): BasicBlock(
+        (conv1): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl1): ADC()
+        (conv2): Conv2d(16, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl2): ADC()
+        (shortcut): Sequential()
+      )
+    )
+    (layer2): Sequential(
+      (0): BasicBlock(
+        (conv1): Conv2d(16, 32, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl1): ADC()
+        (conv2): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl2): ADC()
+        (shortcut): LambdaLayer()
+      )
+      (1): BasicBlock(
+        (conv1): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl1): ADC()
+        (conv2): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl2): ADC()
+        (shortcut): Sequential()
+      )
+      (2): BasicBlock(
+        (conv1): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl1): ADC()
+        (conv2): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl2): ADC()
+        (shortcut): Sequential()
+      )
+    )
+    (layer3): Sequential(
+      (0): BasicBlock(
+        (conv1): Conv2d(32, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl1): ADC()
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl2): ADC()
+        (shortcut): LambdaLayer()
+      )
+      (1): BasicBlock(
+        (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl1): ADC()
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl2): ADC()
+        (shortcut): Sequential()
+      )
+      (2): BasicBlock(
+        (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl1): ADC()
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (adcl2): ADC()
+        (shortcut): Sequential()
+      )
+    )
+    (linear): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+ADC: cco, Bits: 7
+Saving model as: model_resnet20_cco_Ibias_Calib_ff.pt
+Files already downloaded and verified
+current lr 1.00000e-01
+Input: 9.364516258239746, Output: 9.291356086730957
+Input: 7.89359188079834, Output: 7.831923007965088
+Input: 13.140523910522461, Output: 13.037863731384277
+Input: 8.164902687072754, Output: 8.101114273071289
+Input: 18.526796340942383, Output: 18.382055282592773
+Input: 8.747401237487793, Output: 8.679061889648438
+Input: 22.448020935058594, Output: 22.272645950317383
+Input: 7.463770389556885, Output: 7.405459880828857
+Input: 21.222332000732422, Output: 21.05653190612793
+Input: 9.349611282348633, Output: 9.276567459106445
+Input: 22.27169418334961, Output: 22.09769630432129
+Input: 7.878320693969727, Output: 7.816771507263184
+Input: 22.296833038330078, Output: 22.122638702392578
+Input: 6.688696384429932, Output: 6.636440753936768
+Input: 22.228086471557617, Output: 22.05443000793457
+Input: 5.609369277954102, Output: 5.565546035766602
+Input: 22.009971618652344, Output: 21.8380184173584
+Input: 5.233982086181641, Output: 5.19309139251709
+Input: 23.515451431274414, Output: 23.331737518310547
+Epoch: [0][0/391]	Time 4.746 (4.746)	Data 0.204 (0.204)	Loss 10.2680 (10.2680)	Prec@1 14.844 (14.844)
+Input: 8.869117736816406, Output: 8.799827575683594
+Input: 9.644378662109375, Output: 9.569031715393066
+Input: 16.48231315612793, Output: 16.353544235229492
+Input: 8.984572410583496, Output: 8.914380073547363
+Input: 19.079647064208984, Output: 18.930587768554688
+Input: 9.657721519470215, Output: 9.582270622253418
+Input: 23.900362014770508, Output: 23.713640213012695
+Input: 7.86885404586792, Output: 7.807378768920898
+Input: 25.43004035949707, Output: 25.231369018554688
+Input: 7.329647541046143, Output: 7.2723846435546875
+Input: 27.497947692871094, Output: 27.283119201660156
+Input: 8.665265083312988, Output: 8.597567558288574
+Input: 31.04023551940918, Output: 30.797733306884766
+Input: 8.295075416564941, Output: 8.230270385742188
+Input: 30.128347396850586, Output: 29.892969131469727
+Input: 6.813584804534912, Output: 6.7603535652160645
+Input: 29.09071159362793, Output: 28.863439559936523
+Input: 6.905411720275879, Output: 6.851463317871094
+Input: 30.660816192626953, Output: 30.42127799987793
+Input: 7.453236103057861, Output: 7.395007610321045
+Input: 9.259117126464844, Output: 9.186779975891113
+Input: 14.817880630493164, Output: 14.702116012573242
+Input: 10.472535133361816, Output: 10.390718460083008
+Input: 17.517555236816406, Output: 17.380699157714844
+Input: 9.427956581115723, Output: 9.354300498962402
+Input: 23.45494842529297, Output: 23.27170753479004
+Input: 8.782915115356445, Output: 8.714298248291016
+Input: 24.173097610473633, Output: 23.98424530029297
+Input: 8.044740676879883, Output: 7.98189115524292
+Input: 29.964921951293945, Output: 29.73082160949707
+Input: 10.154464721679688, Output: 10.075133323669434
+Input: 30.057035446166992, Output: 29.822214126586914
+Input: 8.10366153717041, Output: 8.040351867675781
+Input: 26.161117553710938, Output: 25.95673370361328
+Input: 6.850100040435791, Output: 6.796583652496338
+Input: 30.142305374145508, Output: 29.906818389892578
+Input: 7.426296710968018, Output: 7.368278980255127
+Input: 34.12885665893555, Output: 33.86222457885742
+Input: 6.015225887298584, Output: 5.968232154846191
+Input: 8.110868453979492, Output: 8.047502517700195
+Input: 12.931137084960938, Output: 12.83011245727539
+Input: 8.576762199401855, Output: 8.509756088256836
+Input: 15.676563262939453, Output: 15.55409049987793
+Input: 8.901254653930664, Output: 8.831713676452637
+Input: 21.16482162475586, Output: 20.99947166442871
+Input: 8.311263084411621, Output: 8.246331214904785
+Input: 24.73224639892578, Output: 24.539026260375977
+Input: 9.00131607055664, Output: 8.93099308013916
+Input: 28.267333984375, Output: 28.04649543762207
+Input: 10.158712387084961, Output: 10.079347610473633
+Input: 29.66722297668457, Output: 29.435447692871094
+Input: 9.1720552444458, Output: 9.100399017333984
+Input: 32.9486198425293, Output: 32.69120788574219
+Input: 7.172496795654297, Output: 7.116461753845215
+Input: 37.89594268798828, Output: 37.59988021850586
+Input: 7.63618278503418, Output: 7.5765252113342285
+Input: 43.673648834228516, Output: 43.33244705200195
+Input: 5.313155174255371, Output: 5.271646022796631
+Input: 7.636430740356445, Output: 7.576771259307861
+Input: 9.926446914672852, Output: 9.848896980285645
+Input: 7.541362762451172, Output: 7.48244571685791
+Input: 12.288150787353516, Output: 12.19214916229248
+Input: 8.326394081115723, Output: 8.261343955993652
+Input: 17.427989959716797, Output: 17.291833877563477
+Input: 7.334644794464111, Output: 7.277342796325684
+Input: 21.4200382232666, Output: 21.252695083618164
+Input: 7.572218418121338, Output: 7.513060569763184
+Input: 25.910526275634766, Output: 25.708099365234375
+Input: 6.988977909088135, Output: 6.9343767166137695
+Input: 31.966772079467773, Output: 31.717031478881836
+Input: 7.7909111976623535, Output: 7.730044841766357
+Input: 33.52229309082031, Output: 33.260398864746094
+Input: 8.488463401794434, Output: 8.422147750854492
+Input: 37.75075912475586, Output: 37.45582962036133
+Input: 6.785223960876465, Output: 6.732214450836182
+Input: 43.051361083984375, Output: 42.715023040771484
+Input: 6.412276268005371, Output: 6.362180233001709
+Input: 5.923095703125, Output: 5.876821517944336
+Input: 9.394160270690918, Output: 9.320768356323242
+Input: 7.447734832763672, Output: 7.389549255371094
+Input: 14.610124588012695, Output: 14.495983123779297
+Input: 8.527541160583496, Output: 8.460919380187988
+Input: 21.719005584716797, Output: 21.549325942993164
+Input: 9.36649227142334, Output: 9.293316841125488
+Input: 27.63991928100586, Output: 27.423982620239258
+Input: 8.635870933532715, Output: 8.568403244018555
+Input: 33.83454513549805, Output: 33.570213317871094
+Input: 9.728520393371582, Output: 9.65251636505127
+Input: 40.545196533203125, Output: 40.22843551635742
+Input: 9.055071830749512, Output: 8.984329223632812
+Input: 43.691898345947266, Output: 43.350555419921875
+Input: 11.934493064880371, Output: 11.841255187988281
+Input: 51.56126403808594, Output: 51.158443450927734
+Input: 10.838708877563477, Output: 10.75403118133545
+Input: 59.65415954589844, Output: 59.1881103515625
+Input: 5.308172225952148, Output: 5.266702175140381
+Input: 5.9627604484558105, Output: 5.9161763191223145
+Input: 8.161294937133789, Output: 8.097535133361816
+Input: 9.590452194213867, Output: 9.51552677154541
+Input: 14.72021484375, Output: 14.605213165283203
+Input: 10.168831825256348, Output: 10.089387893676758
+Input: 24.67182731628418, Output: 24.47907829284668
+Input: 10.589423179626465, Output: 10.506692886352539
+Input: 32.100440979003906, Output: 31.84965705871582
+Input: 8.49022102355957, Output: 8.423891067504883
+Input: 37.26201248168945, Output: 36.97090148925781
+Input: 9.172968864440918, Output: 9.10130500793457
+Input: 40.14150619506836, Output: 39.82789993286133
+Input: 8.151349067687988, Output: 8.087666511535645
+Input: 32.17752456665039, Output: 31.926137924194336
+Input: 7.908333778381348, Output: 7.846549987792969
+Input: 37.48198318481445, Output: 37.18915557861328
+Input: 8.686824798583984, Output: 8.618959426879883
+Input: 43.357765197753906, Output: 43.0190315246582
+Input: 5.778235912322998, Output: 5.73309326171875
+Input: 8.100913047790527, Output: 8.03762435913086
+Input: 8.91691780090332, Output: 8.847254753112793
+Input: 6.678985595703125, Output: 6.626806259155273
+Input: 12.127923011779785, Output: 12.033173561096191
+Input: 7.094616889953613, Output: 7.039190292358398
+Input: 16.426036834716797, Output: 16.29770851135254
+Input: 5.981029510498047, Output: 5.934302806854248
+Input: 18.491336822509766, Output: 18.346872329711914
+Input: 5.265835762023926, Output: 5.224696636199951
+Input: 21.4139404296875, Output: 21.24664306640625
+Input: 5.0853681564331055, Output: 5.045638561248779
+Input: 22.628662109375, Output: 22.451875686645508
+Input: 4.990401744842529, Output: 4.951414108276367
+Input: 9.617682456970215, Output: 9.5425443649292
+Input: 5.539230823516846, Output: 5.495955467224121
+Input: 11.308252334594727, Output: 11.2199068069458
+Input: 5.759151935577393, Output: 5.714158535003662
+Input: 14.39024829864502, Output: 14.277824401855469
+Input: 4.446714401245117, Output: 4.4119744300842285
+Input: 8.150601387023926, Output: 8.08692455291748
+Input: 10.366809844970703, Output: 10.285819053649902
+Input: 9.658456802368164, Output: 9.583000183105469
+Input: 15.827201843261719, Output: 15.70355224609375
+Input: 9.152434349060059, Output: 9.080930709838867
+Input: 20.564838409423828, Output: 20.4041748046875
+Input: 8.825517654418945, Output: 8.75656795501709
+Input: 22.388652801513672, Output: 22.213741302490234
+Input: 7.633411884307861, Output: 7.573775768280029
+Input: 26.714611053466797, Output: 26.505903244018555
+Input: 8.356340408325195, Output: 8.291056632995605
+Input: 29.318439483642578, Output: 29.08938980102539
+Input: 7.869436264038086, Output: 7.807956218719482
+Input: 23.300260543823242, Output: 23.118227005004883
+Input: 13.418828010559082, Output: 13.313993453979492
+Input: 34.414306640625, Output: 34.14544677734375
+Input: 15.402387619018555, Output: 15.28205680847168
+Input: 45.279396057128906, Output: 44.92565155029297
+Input: 4.312088966369629, Output: 4.278400897979736
+Input: 5.84730339050293, Output: 5.801621437072754
+Input: 10.63919734954834, Output: 10.556078910827637
+Input: 11.067797660827637, Output: 10.981330871582031
+Input: 12.254243850708008, Output: 12.158507347106934
+Input: 7.571659088134766, Output: 7.512505531311035
+Input: 16.774612426757812, Output: 16.6435604095459
+Input: 8.749713897705078, Output: 8.681356430053711
+Input: 15.330514907836914, Output: 15.210744857788086
+Input: 8.447275161743164, Output: 8.381280899047852
+Input: 18.677087783813477, Output: 18.531173706054688
+Input: 7.593996047973633, Output: 7.53466796875
+Input: 21.68206787109375, Output: 21.512676239013672
+Input: 7.622280120849609, Output: 7.5627312660217285
+Input: 13.537298202514648, Output: 13.431537628173828
+Input: 13.78950309753418, Output: 13.681772232055664
+Input: 23.05612564086914, Output: 22.875999450683594
+Input: 18.02197265625, Output: 17.881175994873047
+Input: 33.184940338134766, Output: 32.925682067871094
+Input: 5.013618469238281, Output: 4.974449634552002
+Input: 6.012663841247559, Output: 5.9656901359558105
+Input: 9.417197227478027, Output: 9.34362506866455
+Input: 10.645264625549316, Output: 10.562098503112793
+Input: 13.924308776855469, Output: 13.81552505493164
+Input: 11.595601081848145, Output: 11.505010604858398
+Input: 17.63280487060547, Output: 17.49504852294922
+Input: 10.627054214477539, Output: 10.54403018951416
+Input: 23.24659538269043, Output: 23.06498146057129
+Input: 17.95059585571289, Output: 17.81035614013672
+Input: 31.864498138427734, Output: 31.615556716918945
+Input: 13.09439754486084, Output: 12.992097854614258
+Input: 44.2888069152832, Output: 43.94280242919922
+Input: 9.867046356201172, Output: 9.789959907531738
+Input: 36.9721794128418, Output: 36.68333435058594
+Input: 10.282465934753418, Output: 10.202134132385254
+Input: 41.40866470336914, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Epoch: [0][50/391]	Time 0.164 (0.312)	Data 0.000 (0.004)	Loss nan (nan)	Prec@1 3.906 (10.156)
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan
+Input: nan, Output: nan

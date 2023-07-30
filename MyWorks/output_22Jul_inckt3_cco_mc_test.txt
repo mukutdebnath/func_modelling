@@ -1,0 +1,2402 @@
+['resnet20_adc', 'resnet20_adc_q', 'resnet20_adc_vars']
+Test results for MC iteration: 0
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 0
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 2.441 (2.441)	Loss 0.4651 (0.4651)	Prec@1 86.719 (86.719)
+Test: [50/79]	Time 0.473 (0.513)	Loss 0.4036 (0.4993)	Prec@1 87.500 (87.056)
+ * Prec@1 87.220
+ADC: cco, Bits: 7
+Test Accuracy:87.22
+------------------------------X--------------------------------
+Test results for MC iteration: 1
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 1
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.732 (0.732)	Loss 0.1673 (0.1673)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.482 (0.488)	Loss 0.1580 (0.2318)	Prec@1 95.312 (92.387)
+ * Prec@1 92.130
+ADC: cco, Bits: 7
+Test Accuracy:92.13
+------------------------------X--------------------------------
+Test results for MC iteration: 2
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 2
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.722 (0.722)	Loss 0.1346 (0.1346)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.474 (0.486)	Loss 0.1286 (0.2210)	Prec@1 96.094 (92.570)
+ * Prec@1 92.470
+ADC: cco, Bits: 7
+Test Accuracy:92.47
+------------------------------X--------------------------------
+Test results for MC iteration: 3
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 3
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.745 (0.745)	Loss 0.1600 (0.1600)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.485 (0.490)	Loss 0.1491 (0.2314)	Prec@1 95.312 (92.448)
+ * Prec@1 92.150
+ADC: cco, Bits: 7
+Test Accuracy:92.15
+------------------------------X--------------------------------
+Test results for MC iteration: 4
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 4
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.714 (0.714)	Loss 0.1332 (0.1332)	Prec@1 96.094 (96.094)
+Test: [50/79]	Time 0.481 (0.486)	Loss 0.1269 (0.2226)	Prec@1 96.094 (92.693)
+ * Prec@1 92.590
+ADC: cco, Bits: 7
+Test Accuracy:92.59
+------------------------------X--------------------------------
+Test results for MC iteration: 5
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 5
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.726 (0.726)	Loss 0.6166 (0.6166)	Prec@1 83.594 (83.594)
+Test: [50/79]	Time 0.481 (0.485)	Loss 0.7095 (0.6324)	Prec@1 78.125 (79.733)
+ * Prec@1 79.240
+ADC: cco, Bits: 7
+Test Accuracy:79.24
+------------------------------X--------------------------------
+Test results for MC iteration: 6
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 6
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.732 (0.732)	Loss 0.2392 (0.2392)	Prec@1 91.406 (91.406)
+Test: [50/79]	Time 0.473 (0.482)	Loss 0.1401 (0.3080)	Prec@1 93.750 (91.085)
+ * Prec@1 91.320
+ADC: cco, Bits: 7
+Test Accuracy:91.32
+------------------------------X--------------------------------
+Test results for MC iteration: 7
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 7
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.714 (0.714)	Loss 0.1669 (0.1669)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.490 (0.483)	Loss 0.1514 (0.2325)	Prec@1 93.750 (92.325)
+ * Prec@1 92.070
+ADC: cco, Bits: 7
+Test Accuracy:92.07
+------------------------------X--------------------------------
+Test results for MC iteration: 8
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 8
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.706 (0.706)	Loss 0.1312 (0.1312)	Prec@1 96.094 (96.094)
+Test: [50/79]	Time 0.505 (0.481)	Loss 0.1267 (0.2219)	Prec@1 96.094 (92.647)
+ * Prec@1 92.480
+ADC: cco, Bits: 7
+Test Accuracy:92.48
+------------------------------X--------------------------------
+Test results for MC iteration: 9
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 9
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.724 (0.724)	Loss 0.5742 (0.5742)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.480 (0.477)	Loss 0.5594 (0.6369)	Prec@1 83.594 (84.605)
+ * Prec@1 84.680
+ADC: cco, Bits: 7
+Test Accuracy:84.68
+------------------------------X--------------------------------
+Test results for MC iteration: 10
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 10
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.741 (0.741)	Loss 0.6788 (0.6788)	Prec@1 82.031 (82.031)
+Test: [50/79]	Time 0.483 (0.487)	Loss 0.7670 (0.6905)	Prec@1 76.562 (78.125)
+ * Prec@1 77.520
+ADC: cco, Bits: 7
+Test Accuracy:77.52
+------------------------------X--------------------------------
+Test results for MC iteration: 11
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 11
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.703 (0.703)	Loss 0.4185 (0.4185)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.476 (0.488)	Loss 0.4861 (0.4356)	Prec@1 82.812 (85.478)
+ * Prec@1 85.380
+ADC: cco, Bits: 7
+Test Accuracy:85.38
+------------------------------X--------------------------------
+Test results for MC iteration: 12
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 12
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.733 (0.733)	Loss 0.6373 (0.6373)	Prec@1 84.375 (84.375)
+Test: [50/79]	Time 0.471 (0.476)	Loss 0.6568 (0.7187)	Prec@1 81.250 (83.150)
+ * Prec@1 83.160
+ADC: cco, Bits: 7
+Test Accuracy:83.16
+------------------------------X--------------------------------
+Test results for MC iteration: 13
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 13
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.725 (0.725)	Loss 0.1727 (0.1727)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.517 (0.502)	Loss 0.1618 (0.2334)	Prec@1 94.531 (92.371)
+ * Prec@1 92.110
+ADC: cco, Bits: 7
+Test Accuracy:92.11
+------------------------------X--------------------------------
+Test results for MC iteration: 14
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 14
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.707 (0.707)	Loss 0.1319 (0.1319)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.486 (0.495)	Loss 0.1258 (0.2230)	Prec@1 96.094 (92.662)
+ * Prec@1 92.620
+ADC: cco, Bits: 7
+Test Accuracy:92.62
+------------------------------X--------------------------------
+Test results for MC iteration: 15
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 15
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.717 (0.717)	Loss 0.1538 (0.1538)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.483 (0.488)	Loss 0.1311 (0.2508)	Prec@1 95.312 (91.575)
+ * Prec@1 91.720
+ADC: cco, Bits: 7
+Test Accuracy:91.72
+------------------------------X--------------------------------
+Test results for MC iteration: 16
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 16
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.704 (0.704)	Loss 0.1355 (0.1355)	Prec@1 96.094 (96.094)
+Test: [50/79]	Time 0.467 (0.489)	Loss 0.1262 (0.2287)	Prec@1 96.094 (92.295)
+ * Prec@1 92.290
+ADC: cco, Bits: 7
+Test Accuracy:92.29
+------------------------------X--------------------------------
+Test results for MC iteration: 17
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 17
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.776 (0.776)	Loss 1.4198 (1.4198)	Prec@1 51.562 (51.562)
+Test: [50/79]	Time 0.477 (0.499)	Loss 1.5323 (1.3887)	Prec@1 47.656 (53.722)
+ * Prec@1 53.230
+ADC: cco, Bits: 7
+Test Accuracy:53.23
+------------------------------X--------------------------------
+Test results for MC iteration: 18
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 18
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.845 (0.845)	Loss 0.1387 (0.1387)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.490 (0.508)	Loss 0.1298 (0.2305)	Prec@1 96.094 (92.279)
+ * Prec@1 92.280
+ADC: cco, Bits: 7
+Test Accuracy:92.28
+------------------------------X--------------------------------
+Test results for MC iteration: 19
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 19
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.791 (0.791)	Loss 0.1520 (0.1520)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.492 (0.498)	Loss 0.1221 (0.2283)	Prec@1 95.312 (92.739)
+ * Prec@1 92.550
+ADC: cco, Bits: 7
+Test Accuracy:92.55
+------------------------------X--------------------------------
+Test results for MC iteration: 20
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 20
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.751 (0.751)	Loss 0.1458 (0.1458)	Prec@1 96.094 (96.094)
+Test: [50/79]	Time 0.662 (0.511)	Loss 0.1063 (0.2424)	Prec@1 95.312 (92.601)
+ * Prec@1 92.710
+ADC: cco, Bits: 7
+Test Accuracy:92.71
+------------------------------X--------------------------------
+Test results for MC iteration: 21
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 21
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.760 (0.760)	Loss 1.3861 (1.3861)	Prec@1 53.125 (53.125)
+Test: [50/79]	Time 0.481 (0.493)	Loss 1.5105 (1.3575)	Prec@1 48.438 (53.799)
+ * Prec@1 53.340
+ADC: cco, Bits: 7
+Test Accuracy:53.34
+------------------------------X--------------------------------
+Test results for MC iteration: 22
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 22
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.775 (0.775)	Loss 0.1349 (0.1349)	Prec@1 96.094 (96.094)
+Test: [50/79]	Time 0.489 (0.509)	Loss 0.1045 (0.2377)	Prec@1 96.094 (92.831)
+ * Prec@1 92.880
+ADC: cco, Bits: 7
+Test Accuracy:92.88
+------------------------------X--------------------------------
+Test results for MC iteration: 23
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 23
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.779 (0.779)	Loss 1.3277 (1.3277)	Prec@1 69.531 (69.531)
+Test: [50/79]	Time 0.465 (0.481)	Loss 1.5575 (1.5643)	Prec@1 71.094 (71.523)
+ * Prec@1 71.590
+ADC: cco, Bits: 7
+Test Accuracy:71.59
+------------------------------X--------------------------------
+Test results for MC iteration: 24
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 24
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.756 (0.756)	Loss 0.1689 (0.1689)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.476 (0.497)	Loss 0.1171 (0.2630)	Prec@1 94.531 (92.249)
+ * Prec@1 92.400
+ADC: cco, Bits: 7
+Test Accuracy:92.4
+------------------------------X--------------------------------
+Test results for MC iteration: 25
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 25
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.779 (0.779)	Loss 0.4688 (0.4688)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.492 (0.495)	Loss 0.5531 (0.4878)	Prec@1 79.688 (84.053)
+ * Prec@1 83.770
+ADC: cco, Bits: 7
+Test Accuracy:83.77
+------------------------------X--------------------------------
+Test results for MC iteration: 26
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 26
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.750 (0.750)	Loss 0.1474 (0.1474)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.481 (0.486)	Loss 0.1099 (0.2477)	Prec@1 96.094 (92.463)
+ * Prec@1 92.570
+ADC: cco, Bits: 7
+Test Accuracy:92.57
+------------------------------X--------------------------------
+Test results for MC iteration: 27
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 27
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.792 (0.792)	Loss 0.2353 (0.2353)	Prec@1 92.188 (92.188)
+Test: [50/79]	Time 0.517 (0.491)	Loss 0.1833 (0.3024)	Prec@1 92.188 (90.395)
+ * Prec@1 90.550
+ADC: cco, Bits: 7
+Test Accuracy:90.55
+------------------------------X--------------------------------
+Test results for MC iteration: 28
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 28
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.716 (0.716)	Loss 0.1557 (0.1557)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.490 (0.488)	Loss 0.1375 (0.2484)	Prec@1 96.094 (91.682)
+ * Prec@1 91.820
+ADC: cco, Bits: 7
+Test Accuracy:91.82
+------------------------------X--------------------------------
+Test results for MC iteration: 29
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 29
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.712 (0.712)	Loss 0.8997 (0.8997)	Prec@1 75.000 (75.000)
+Test: [50/79]	Time 0.478 (0.494)	Loss 0.9847 (0.8897)	Prec@1 69.531 (71.798)
+ * Prec@1 71.650
+ADC: cco, Bits: 7
+Test Accuracy:71.65
+------------------------------X--------------------------------
+Test results for MC iteration: 30
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 30
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.735 (0.735)	Loss 0.1561 (0.1561)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.477 (0.497)	Loss 0.1415 (0.2497)	Prec@1 95.312 (91.713)
+ * Prec@1 91.820
+ADC: cco, Bits: 7
+Test Accuracy:91.82
+------------------------------X--------------------------------
+Test results for MC iteration: 31
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 31
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.827 (0.827)	Loss 0.2739 (0.2739)	Prec@1 89.844 (89.844)
+Test: [50/79]	Time 0.483 (0.500)	Loss 0.3099 (0.3005)	Prec@1 90.625 (89.767)
+ * Prec@1 89.580
+ADC: cco, Bits: 7
+Test Accuracy:89.58
+------------------------------X--------------------------------
+Test results for MC iteration: 32
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 32
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.717 (0.717)	Loss 2.0480 (2.0480)	Prec@1 63.281 (63.281)
+Test: [50/79]	Time 0.471 (0.482)	Loss 2.3423 (2.3168)	Prec@1 63.281 (63.771)
+ * Prec@1 63.920
+ADC: cco, Bits: 7
+Test Accuracy:63.92
+------------------------------X--------------------------------
+Test results for MC iteration: 33
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 33
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.723 (0.723)	Loss 0.5220 (0.5220)	Prec@1 86.719 (86.719)
+Test: [50/79]	Time 0.485 (0.488)	Loss 0.4869 (0.5746)	Prec@1 85.156 (85.493)
+ * Prec@1 85.620
+ADC: cco, Bits: 7
+Test Accuracy:85.62
+------------------------------X--------------------------------
+Test results for MC iteration: 34
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 34
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.752 (0.752)	Loss 0.3315 (0.3315)	Prec@1 87.500 (87.500)
+Test: [50/79]	Time 0.487 (0.504)	Loss 0.3682 (0.3454)	Prec@1 87.500 (88.113)
+ * Prec@1 88.090
+ADC: cco, Bits: 7
+Test Accuracy:88.09
+------------------------------X--------------------------------
+Test results for MC iteration: 35
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 35
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.714 (0.714)	Loss 0.1998 (0.1998)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.480 (0.497)	Loss 0.2224 (0.2518)	Prec@1 92.188 (91.544)
+ * Prec@1 91.280
+ADC: cco, Bits: 7
+Test Accuracy:91.28
+------------------------------X--------------------------------
+Test results for MC iteration: 36
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 36
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.736 (0.736)	Loss 0.2672 (0.2672)	Prec@1 89.062 (89.062)
+Test: [50/79]	Time 0.484 (0.499)	Loss 0.2922 (0.2909)	Prec@1 90.625 (90.242)
+ * Prec@1 90.000
+ADC: cco, Bits: 7
+Test Accuracy:90.0
+------------------------------X--------------------------------
+Test results for MC iteration: 37
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 37
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.799 (0.799)	Loss 0.1814 (0.1814)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.485 (0.497)	Loss 0.1812 (0.2367)	Prec@1 93.750 (92.111)
+ * Prec@1 91.870
+ADC: cco, Bits: 7
+Test Accuracy:91.87
+------------------------------X--------------------------------
+Test results for MC iteration: 38
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 38
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.771 (0.771)	Loss 0.1791 (0.1791)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.475 (0.499)	Loss 0.1796 (0.2386)	Prec@1 92.969 (92.096)
+ * Prec@1 91.890
+ADC: cco, Bits: 7
+Test Accuracy:91.89
+------------------------------X--------------------------------
+Test results for MC iteration: 39
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 39
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.778 (0.778)	Loss 0.1757 (0.1757)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.519 (0.507)	Loss 0.1793 (0.2355)	Prec@1 93.750 (92.203)
+ * Prec@1 91.940
+ADC: cco, Bits: 7
+Test Accuracy:91.94
+------------------------------X--------------------------------
+Test results for MC iteration: 40
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 40
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.765 (0.765)	Loss 0.1372 (0.1372)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.495 (0.509)	Loss 0.1061 (0.2318)	Prec@1 95.312 (92.785)
+ * Prec@1 92.700
+ADC: cco, Bits: 7
+Test Accuracy:92.7
+------------------------------X--------------------------------
+Test results for MC iteration: 41
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 41
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.727 (0.727)	Loss 0.1869 (0.1869)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.485 (0.509)	Loss 0.1875 (0.2386)	Prec@1 93.750 (92.019)
+ * Prec@1 91.820
+ADC: cco, Bits: 7
+Test Accuracy:91.82
+------------------------------X--------------------------------
+Test results for MC iteration: 42
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 42
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.775 (0.775)	Loss 0.2270 (0.2270)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.491 (0.499)	Loss 0.2488 (0.2657)	Prec@1 91.406 (91.146)
+ * Prec@1 90.960
+ADC: cco, Bits: 7
+Test Accuracy:90.96
+------------------------------X--------------------------------
+Test results for MC iteration: 43
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 43
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.731 (0.731)	Loss 0.2778 (0.2778)	Prec@1 90.625 (90.625)
+Test: [50/79]	Time 0.475 (0.489)	Loss 0.3128 (0.3032)	Prec@1 90.625 (89.737)
+ * Prec@1 89.430
+ADC: cco, Bits: 7
+Test Accuracy:89.43
+------------------------------X--------------------------------
+Test results for MC iteration: 44
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 44
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.734 (0.734)	Loss 0.7652 (0.7652)	Prec@1 83.594 (83.594)
+Test: [50/79]	Time 0.468 (0.484)	Loss 0.8536 (0.9074)	Prec@1 77.344 (80.224)
+ * Prec@1 80.230
+ADC: cco, Bits: 7
+Test Accuracy:80.23
+------------------------------X--------------------------------
+Test results for MC iteration: 45
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 45
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.799 (0.799)	Loss 0.5003 (0.5003)	Prec@1 87.500 (87.500)
+Test: [50/79]	Time 0.472 (0.486)	Loss 0.4586 (0.5539)	Prec@1 84.375 (85.861)
+ * Prec@1 86.010
+ADC: cco, Bits: 7
+Test Accuracy:86.01
+------------------------------X--------------------------------
+Test results for MC iteration: 46
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 46
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.749 (0.749)	Loss 0.3585 (0.3585)	Prec@1 88.281 (88.281)
+Test: [50/79]	Time 0.491 (0.499)	Loss 0.4072 (0.3754)	Prec@1 85.938 (87.270)
+ * Prec@1 87.180
+ADC: cco, Bits: 7
+Test Accuracy:87.18
+------------------------------X--------------------------------
+Test results for MC iteration: 47
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 47
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.746 (0.746)	Loss 0.2554 (0.2554)	Prec@1 90.625 (90.625)
+Test: [50/79]	Time 0.499 (0.495)	Loss 0.2007 (0.3204)	Prec@1 92.969 (90.257)
+ * Prec@1 90.360
+ADC: cco, Bits: 7
+Test Accuracy:90.36
+------------------------------X--------------------------------
+Test results for MC iteration: 48
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 48
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.766 (0.766)	Loss 0.5382 (0.5382)	Prec@1 85.156 (85.156)
+Test: [50/79]	Time 0.475 (0.494)	Loss 0.6280 (0.5564)	Prec@1 78.906 (82.062)
+ * Prec@1 81.690
+ADC: cco, Bits: 7
+Test Accuracy:81.69
+------------------------------X--------------------------------
+Test results for MC iteration: 49
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 49
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.734 (0.734)	Loss 0.1673 (0.1673)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.475 (0.488)	Loss 0.1614 (0.2320)	Prec@1 93.750 (92.387)
+ * Prec@1 92.100
+ADC: cco, Bits: 7
+Test Accuracy:92.1
+------------------------------X--------------------------------
+Test results for MC iteration: 50
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 50
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.758 (0.758)	Loss 0.6938 (0.6938)	Prec@1 84.375 (84.375)
+Test: [50/79]	Time 0.474 (0.481)	Loss 0.7255 (0.7966)	Prec@1 80.469 (81.633)
+ * Prec@1 81.630
+ADC: cco, Bits: 7
+Test Accuracy:81.63
+------------------------------X--------------------------------
+Test results for MC iteration: 51
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 51
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.721 (0.721)	Loss 0.1318 (0.1318)	Prec@1 96.875 (96.875)
+Test: [50/79]	Time 0.470 (0.491)	Loss 0.1231 (0.2264)	Prec@1 96.094 (92.433)
+ * Prec@1 92.380
+ADC: cco, Bits: 7
+Test Accuracy:92.38
+------------------------------X--------------------------------
+Test results for MC iteration: 52
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 52
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.848 (0.848)	Loss 0.1553 (0.1553)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.481 (0.510)	Loss 0.1336 (0.2444)	Prec@1 93.750 (92.371)
+ * Prec@1 92.230
+ADC: cco, Bits: 7
+Test Accuracy:92.23
+------------------------------X--------------------------------
+Test results for MC iteration: 53
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 53
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.796 (0.796)	Loss 0.2134 (0.2134)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.496 (0.498)	Loss 0.1410 (0.2921)	Prec@1 94.531 (91.513)
+ * Prec@1 91.740
+ADC: cco, Bits: 7
+Test Accuracy:91.74
+------------------------------X--------------------------------
+Test results for MC iteration: 54
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 54
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.805 (0.805)	Loss 0.2519 (0.2519)	Prec@1 90.625 (90.625)
+Test: [50/79]	Time 0.486 (0.502)	Loss 0.2790 (0.2814)	Prec@1 90.625 (90.456)
+ * Prec@1 90.260
+ADC: cco, Bits: 7
+Test Accuracy:90.26
+------------------------------X--------------------------------
+Test results for MC iteration: 55
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 55
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.736 (0.736)	Loss 0.1606 (0.1606)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.508 (0.490)	Loss 0.1389 (0.2521)	Prec@1 95.312 (91.498)
+ * Prec@1 91.690
+ADC: cco, Bits: 7
+Test Accuracy:91.69
+------------------------------X--------------------------------
+Test results for MC iteration: 56
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 56
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.772 (0.772)	Loss 1.1335 (1.1335)	Prec@1 61.719 (61.719)
+Test: [50/79]	Time 0.494 (0.497)	Loss 1.2330 (1.1090)	Prec@1 57.812 (64.200)
+ * Prec@1 63.720
+ADC: cco, Bits: 7
+Test Accuracy:63.72
+------------------------------X--------------------------------
+Test results for MC iteration: 57
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 57
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.763 (0.763)	Loss 0.3514 (0.3514)	Prec@1 88.281 (88.281)
+Test: [50/79]	Time 0.509 (0.500)	Loss 0.2765 (0.3862)	Prec@1 92.188 (88.848)
+ * Prec@1 89.080
+ADC: cco, Bits: 7
+Test Accuracy:89.08
+------------------------------X--------------------------------
+Test results for MC iteration: 58
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 58
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.767 (0.767)	Loss 0.2032 (0.2032)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.538 (0.522)	Loss 0.2131 (0.2482)	Prec@1 92.188 (91.789)
+ * Prec@1 91.470
+ADC: cco, Bits: 7
+Test Accuracy:91.47
+------------------------------X--------------------------------
+Test results for MC iteration: 59
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 59
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.803 (0.803)	Loss 0.5331 (0.5331)	Prec@1 87.500 (87.500)
+Test: [50/79]	Time 0.536 (0.500)	Loss 0.5066 (0.6018)	Prec@1 84.375 (85.325)
+ * Prec@1 85.220
+ADC: cco, Bits: 7
+Test Accuracy:85.22
+------------------------------X--------------------------------
+Test results for MC iteration: 60
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 60
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.746 (0.746)	Loss 0.3657 (0.3657)	Prec@1 86.719 (86.719)
+Test: [50/79]	Time 0.495 (0.497)	Loss 0.4144 (0.3805)	Prec@1 85.938 (87.240)
+ * Prec@1 87.090
+ADC: cco, Bits: 7
+Test Accuracy:87.09
+------------------------------X--------------------------------
+Test results for MC iteration: 61
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 61
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.780 (0.780)	Loss 0.1413 (0.1413)	Prec@1 96.094 (96.094)
+Test: [50/79]	Time 0.528 (0.502)	Loss 0.1180 (0.2287)	Prec@1 94.531 (92.647)
+ * Prec@1 92.510
+ADC: cco, Bits: 7
+Test Accuracy:92.51
+------------------------------X--------------------------------
+Test results for MC iteration: 62
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 62
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.782 (0.782)	Loss 0.5037 (0.5037)	Prec@1 85.156 (85.156)
+Test: [50/79]	Time 0.515 (0.498)	Loss 0.5828 (0.5203)	Prec@1 79.688 (83.241)
+ * Prec@1 82.920
+ADC: cco, Bits: 7
+Test Accuracy:82.92
+------------------------------X--------------------------------
+Test results for MC iteration: 63
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 63
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.758 (0.758)	Loss 0.2398 (0.2398)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.485 (0.497)	Loss 0.2654 (0.2732)	Prec@1 90.625 (90.656)
+ * Prec@1 90.500
+ADC: cco, Bits: 7
+Test Accuracy:90.5
+------------------------------X--------------------------------
+Test results for MC iteration: 64
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 64
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.804 (0.804)	Loss 0.1448 (0.1448)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.499 (0.493)	Loss 0.1164 (0.2284)	Prec@1 93.750 (92.693)
+ * Prec@1 92.480
+ADC: cco, Bits: 7
+Test Accuracy:92.48
+------------------------------X--------------------------------
+Test results for MC iteration: 65
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 65
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.753 (0.753)	Loss 0.2679 (0.2679)	Prec@1 89.062 (89.062)
+Test: [50/79]	Time 0.498 (0.498)	Loss 0.3129 (0.2989)	Prec@1 90.625 (89.813)
+ * Prec@1 89.710
+ADC: cco, Bits: 7
+Test Accuracy:89.71
+------------------------------X--------------------------------
+Test results for MC iteration: 66
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 66
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.801 (0.801)	Loss 0.1938 (0.1938)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.482 (0.490)	Loss 0.1532 (0.2722)	Prec@1 94.531 (91.100)
+ * Prec@1 91.230
+ADC: cco, Bits: 7
+Test Accuracy:91.23
+------------------------------X--------------------------------
+Test results for MC iteration: 67
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 67
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.776 (0.776)	Loss 0.2763 (0.2763)	Prec@1 90.625 (90.625)
+Test: [50/79]	Time 0.479 (0.496)	Loss 0.3162 (0.3038)	Prec@1 89.844 (89.583)
+ * Prec@1 89.400
+ADC: cco, Bits: 7
+Test Accuracy:89.4
+------------------------------X--------------------------------
+Test results for MC iteration: 68
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 68
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.756 (0.756)	Loss 0.1840 (0.1840)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.522 (0.494)	Loss 0.1532 (0.2666)	Prec@1 94.531 (91.238)
+ * Prec@1 91.450
+ADC: cco, Bits: 7
+Test Accuracy:91.45
+------------------------------X--------------------------------
+Test results for MC iteration: 69
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 69
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.749 (0.749)	Loss 0.2885 (0.2885)	Prec@1 88.281 (88.281)
+Test: [50/79]	Time 0.481 (0.501)	Loss 0.3212 (0.3090)	Prec@1 90.625 (89.430)
+ * Prec@1 89.280
+ADC: cco, Bits: 7
+Test Accuracy:89.28
+------------------------------X--------------------------------
+Test results for MC iteration: 70
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 70
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.743 (0.743)	Loss 0.1548 (0.1548)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.483 (0.492)	Loss 0.1328 (0.2272)	Prec@1 94.531 (92.800)
+ * Prec@1 92.510
+ADC: cco, Bits: 7
+Test Accuracy:92.51
+------------------------------X--------------------------------
+Test results for MC iteration: 71
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 71
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.759 (0.759)	Loss 0.2350 (0.2350)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.486 (0.495)	Loss 0.2589 (0.2691)	Prec@1 90.625 (90.885)
+ * Prec@1 90.690
+ADC: cco, Bits: 7
+Test Accuracy:90.69
+------------------------------X--------------------------------
+Test results for MC iteration: 72
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 72
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.737 (0.737)	Loss 0.3317 (0.3317)	Prec@1 89.062 (89.062)
+Test: [50/79]	Time 0.465 (0.484)	Loss 0.2548 (0.3695)	Prec@1 91.406 (89.354)
+ * Prec@1 89.400
+ADC: cco, Bits: 7
+Test Accuracy:89.4
+------------------------------X--------------------------------
+Test results for MC iteration: 73
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 73
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.794 (0.794)	Loss 0.1672 (0.1672)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.469 (0.486)	Loss 0.1304 (0.2524)	Prec@1 95.312 (91.559)
+ * Prec@1 91.710
+ADC: cco, Bits: 7
+Test Accuracy:91.71
+------------------------------X--------------------------------
+Test results for MC iteration: 74
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 74
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.728 (0.728)	Loss 0.1374 (0.1374)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.486 (0.502)	Loss 0.1118 (0.2315)	Prec@1 95.312 (92.754)
+ * Prec@1 92.690
+ADC: cco, Bits: 7
+Test Accuracy:92.69
+------------------------------X--------------------------------
+Test results for MC iteration: 75
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 75
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.731 (0.731)	Loss 0.1436 (0.1436)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.486 (0.490)	Loss 0.1360 (0.2426)	Prec@1 96.094 (92.019)
+ * Prec@1 92.120
+ADC: cco, Bits: 7
+Test Accuracy:92.12
+------------------------------X--------------------------------
+Test results for MC iteration: 76
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 76
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.744 (0.744)	Loss 0.1346 (0.1346)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.474 (0.493)	Loss 0.1038 (0.2348)	Prec@1 95.312 (92.724)
+ * Prec@1 92.750
+ADC: cco, Bits: 7
+Test Accuracy:92.75
+------------------------------X--------------------------------
+Test results for MC iteration: 77
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 77
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.825 (0.825)	Loss 0.2086 (0.2086)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.485 (0.499)	Loss 0.2374 (0.2562)	Prec@1 92.188 (91.483)
+ * Prec@1 91.200
+ADC: cco, Bits: 7
+Test Accuracy:91.2
+------------------------------X--------------------------------
+Test results for MC iteration: 78
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 78
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.866 (0.866)	Loss 0.2859 (0.2859)	Prec@1 89.062 (89.062)
+Test: [50/79]	Time 0.493 (0.495)	Loss 0.2259 (0.3404)	Prec@1 91.406 (89.874)
+ * Prec@1 89.850
+ADC: cco, Bits: 7
+Test Accuracy:89.85
+------------------------------X--------------------------------
+Test results for MC iteration: 79
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 79
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.811 (0.811)	Loss 0.2842 (0.2842)	Prec@1 88.281 (88.281)
+Test: [50/79]	Time 0.490 (0.502)	Loss 0.3176 (0.3039)	Prec@1 89.844 (89.737)
+ * Prec@1 89.480
+ADC: cco, Bits: 7
+Test Accuracy:89.48
+------------------------------X--------------------------------
+Test results for MC iteration: 80
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 80
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.714 (0.714)	Loss 1.0239 (1.0239)	Prec@1 77.344 (77.344)
+Test: [50/79]	Time 0.512 (0.480)	Loss 1.1940 (1.1858)	Prec@1 72.656 (75.368)
+ * Prec@1 75.130
+ADC: cco, Bits: 7
+Test Accuracy:75.13
+------------------------------X--------------------------------
+Test results for MC iteration: 81
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 81
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.741 (0.741)	Loss 0.8043 (0.8043)	Prec@1 81.250 (81.250)
+Test: [50/79]	Time 0.486 (0.481)	Loss 0.8930 (0.9320)	Prec@1 78.125 (79.672)
+ * Prec@1 79.560
+ADC: cco, Bits: 7
+Test Accuracy:79.56
+------------------------------X--------------------------------
+Test results for MC iteration: 82
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 82
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.745 (0.745)	Loss 0.1455 (0.1455)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.481 (0.493)	Loss 0.1364 (0.2288)	Prec@1 94.531 (92.754)
+ * Prec@1 92.410
+ADC: cco, Bits: 7
+Test Accuracy:92.41
+------------------------------X--------------------------------
+Test results for MC iteration: 83
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 83
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.872 (0.872)	Loss 0.2600 (0.2600)	Prec@1 90.625 (90.625)
+Test: [50/79]	Time 0.491 (0.498)	Loss 0.2904 (0.2885)	Prec@1 91.406 (90.119)
+ * Prec@1 90.010
+ADC: cco, Bits: 7
+Test Accuracy:90.01
+------------------------------X--------------------------------
+Test results for MC iteration: 84
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 84
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.743 (0.743)	Loss 0.3571 (0.3571)	Prec@1 86.719 (86.719)
+Test: [50/79]	Time 0.489 (0.500)	Loss 0.4015 (0.3703)	Prec@1 85.938 (87.439)
+ * Prec@1 87.340
+ADC: cco, Bits: 7
+Test Accuracy:87.34
+------------------------------X--------------------------------
+Test results for MC iteration: 85
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 85
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.769 (0.769)	Loss 0.2340 (0.2340)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.503 (0.504)	Loss 0.2586 (0.2693)	Prec@1 91.406 (90.916)
+ * Prec@1 90.710
+ADC: cco, Bits: 7
+Test Accuracy:90.71
+------------------------------X--------------------------------
+Test results for MC iteration: 86
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 86
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.736 (0.736)	Loss 0.6821 (0.6821)	Prec@1 84.375 (84.375)
+Test: [50/79]	Time 0.467 (0.487)	Loss 0.7257 (0.7809)	Prec@1 79.688 (82.001)
+ * Prec@1 82.090
+ADC: cco, Bits: 7
+Test Accuracy:82.09
+------------------------------X--------------------------------
+Test results for MC iteration: 87
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 87
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.731 (0.731)	Loss 0.3537 (0.3537)	Prec@1 88.281 (88.281)
+Test: [50/79]	Time 0.480 (0.496)	Loss 0.4038 (0.3686)	Prec@1 86.719 (87.577)
+ * Prec@1 87.460
+ADC: cco, Bits: 7
+Test Accuracy:87.46
+------------------------------X--------------------------------
+Test results for MC iteration: 88
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 88
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.779 (0.779)	Loss 0.3060 (0.3060)	Prec@1 89.844 (89.844)
+Test: [50/79]	Time 0.490 (0.502)	Loss 0.3412 (0.3225)	Prec@1 89.062 (89.139)
+ * Prec@1 88.930
+ADC: cco, Bits: 7
+Test Accuracy:88.93
+------------------------------X--------------------------------
+Test results for MC iteration: 89
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 89
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.783 (0.783)	Loss 0.2278 (0.2278)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.489 (0.506)	Loss 0.2475 (0.2628)	Prec@1 91.406 (91.100)
+ * Prec@1 90.900
+ADC: cco, Bits: 7
+Test Accuracy:90.9
+------------------------------X--------------------------------
+Test results for MC iteration: 90
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 90
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.736 (0.736)	Loss 0.8761 (0.8761)	Prec@1 78.906 (78.906)
+Test: [50/79]	Time 0.473 (0.480)	Loss 1.0018 (1.0207)	Prec@1 75.781 (78.339)
+ * Prec@1 78.230
+ADC: cco, Bits: 7
+Test Accuracy:78.23
+------------------------------X--------------------------------
+Test results for MC iteration: 91
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 91
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.798 (0.798)	Loss 0.2723 (0.2723)	Prec@1 90.625 (90.625)
+Test: [50/79]	Time 0.511 (0.500)	Loss 0.3035 (0.2950)	Prec@1 90.625 (90.043)
+ * Prec@1 89.910
+ADC: cco, Bits: 7
+Test Accuracy:89.91
+------------------------------X--------------------------------
+Test results for MC iteration: 92
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 92
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.785 (0.785)	Loss 0.2294 (0.2294)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.479 (0.495)	Loss 0.2678 (0.2712)	Prec@1 90.625 (90.809)
+ * Prec@1 90.580
+ADC: cco, Bits: 7
+Test Accuracy:90.58
+------------------------------X--------------------------------
+Test results for MC iteration: 93
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 93
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.692 (0.692)	Loss 0.5828 (0.5828)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.467 (0.475)	Loss 0.5647 (0.6348)	Prec@1 81.250 (84.482)
+ * Prec@1 84.580
+ADC: cco, Bits: 7
+Test Accuracy:84.58
+------------------------------X--------------------------------
+Test results for MC iteration: 94
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 94
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.708 (0.708)	Loss 0.4648 (0.4648)	Prec@1 85.156 (85.156)
+Test: [50/79]	Time 0.482 (0.499)	Loss 0.5266 (0.4759)	Prec@1 83.594 (84.544)
+ * Prec@1 84.220
+ADC: cco, Bits: 7
+Test Accuracy:84.22
+------------------------------X--------------------------------
+Test results for MC iteration: 95
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 95
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.708 (0.708)	Loss 0.1627 (0.1627)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.476 (0.488)	Loss 0.1355 (0.2484)	Prec@1 96.094 (91.713)
+ * Prec@1 91.890
+ADC: cco, Bits: 7
+Test Accuracy:91.89
+------------------------------X--------------------------------
+Test results for MC iteration: 96
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 96
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.713 (0.713)	Loss 1.0008 (1.0008)	Prec@1 71.094 (71.094)
+Test: [50/79]	Time 0.486 (0.504)	Loss 1.0983 (0.9872)	Prec@1 63.281 (68.490)
+ * Prec@1 68.130
+ADC: cco, Bits: 7
+Test Accuracy:68.13
+------------------------------X--------------------------------
+Test results for MC iteration: 97
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 97
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.775 (0.775)	Loss 0.2575 (0.2575)	Prec@1 89.062 (89.062)
+Test: [50/79]	Time 0.498 (0.488)	Loss 0.2037 (0.3187)	Prec@1 92.188 (90.319)
+ * Prec@1 90.460
+ADC: cco, Bits: 7
+Test Accuracy:90.46
+------------------------------X--------------------------------
+Test results for MC iteration: 98
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 98
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.714 (0.714)	Loss 0.3023 (0.3023)	Prec@1 89.844 (89.844)
+Test: [50/79]	Time 0.473 (0.486)	Loss 0.2427 (0.3636)	Prec@1 91.406 (89.400)
+ * Prec@1 89.410
+ADC: cco, Bits: 7
+Test Accuracy:89.41
+------------------------------X--------------------------------
+Test results for MC iteration: 99
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 99
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.745 (0.745)	Loss 0.1732 (0.1732)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.486 (0.507)	Loss 0.1624 (0.2328)	Prec@1 94.531 (92.310)
+ * Prec@1 92.050
+ADC: cco, Bits: 7
+Test Accuracy:92.05
+------------------------------X--------------------------------
+Test results for MC iteration: 100
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 100
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.753 (0.753)	Loss 0.1494 (0.1494)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.508 (0.497)	Loss 0.1203 (0.2315)	Prec@1 93.750 (92.509)
+ * Prec@1 92.290
+ADC: cco, Bits: 7
+Test Accuracy:92.29
+------------------------------X--------------------------------
+Test results for MC iteration: 101
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 101
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.917 (0.917)	Loss 0.1397 (0.1397)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.546 (0.503)	Loss 0.1065 (0.2394)	Prec@1 96.094 (92.678)
+ * Prec@1 92.770
+ADC: cco, Bits: 7
+Test Accuracy:92.77
+------------------------------X--------------------------------
+Test results for MC iteration: 102
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 102
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.811 (0.811)	Loss 0.1402 (0.1402)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.476 (0.505)	Loss 0.1112 (0.2298)	Prec@1 95.312 (92.816)
+ * Prec@1 92.750
+ADC: cco, Bits: 7
+Test Accuracy:92.75
+------------------------------X--------------------------------
+Test results for MC iteration: 103
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 103
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.720 (0.720)	Loss 0.1459 (0.1459)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.484 (0.501)	Loss 0.1146 (0.2269)	Prec@1 94.531 (92.754)
+ * Prec@1 92.550
+ADC: cco, Bits: 7
+Test Accuracy:92.55
+------------------------------X--------------------------------
+Test results for MC iteration: 104
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 104
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.760 (0.760)	Loss 0.1755 (0.1755)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.493 (0.500)	Loss 0.1149 (0.2667)	Prec@1 94.531 (92.126)
+ * Prec@1 92.280
+ADC: cco, Bits: 7
+Test Accuracy:92.28
+------------------------------X--------------------------------
+Test results for MC iteration: 105
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 105
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.823 (0.823)	Loss 0.1518 (0.1518)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.540 (0.514)	Loss 0.1316 (0.2431)	Prec@1 96.094 (91.850)
+ * Prec@1 91.940
+ADC: cco, Bits: 7
+Test Accuracy:91.94
+------------------------------X--------------------------------
+Test results for MC iteration: 106
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 106
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.758 (0.758)	Loss 0.2158 (0.2158)	Prec@1 91.406 (91.406)
+Test: [50/79]	Time 0.490 (0.499)	Loss 0.1818 (0.2910)	Prec@1 92.969 (90.839)
+ * Prec@1 91.000
+ADC: cco, Bits: 7
+Test Accuracy:91.0
+------------------------------X--------------------------------
+Test results for MC iteration: 107
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 107
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.811 (0.811)	Loss 0.2283 (0.2283)	Prec@1 91.406 (91.406)
+Test: [50/79]	Time 0.481 (0.492)	Loss 0.1858 (0.2989)	Prec@1 92.969 (90.610)
+ * Prec@1 90.730
+ADC: cco, Bits: 7
+Test Accuracy:90.73
+------------------------------X--------------------------------
+Test results for MC iteration: 108
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 108
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.829 (0.829)	Loss 0.5248 (0.5248)	Prec@1 85.156 (85.156)
+Test: [50/79]	Time 0.473 (0.498)	Loss 0.6034 (0.5411)	Prec@1 79.688 (82.475)
+ * Prec@1 82.120
+ADC: cco, Bits: 7
+Test Accuracy:82.12
+------------------------------X--------------------------------
+Test results for MC iteration: 109
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 109
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.778 (0.778)	Loss 0.5987 (0.5987)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.471 (0.490)	Loss 0.6136 (0.6851)	Prec@1 82.031 (83.686)
+ * Prec@1 83.740
+ADC: cco, Bits: 7
+Test Accuracy:83.74
+------------------------------X--------------------------------
+Test results for MC iteration: 110
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 110
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.748 (0.748)	Loss 0.4417 (0.4417)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.479 (0.495)	Loss 0.5162 (0.4583)	Prec@1 82.031 (85.049)
+ * Prec@1 84.780
+ADC: cco, Bits: 7
+Test Accuracy:84.78
+------------------------------X--------------------------------
+Test results for MC iteration: 111
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 111
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.781 (0.781)	Loss 0.1598 (0.1598)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.506 (0.489)	Loss 0.1314 (0.2496)	Prec@1 96.094 (91.651)
+ * Prec@1 91.770
+ADC: cco, Bits: 7
+Test Accuracy:91.77
+------------------------------X--------------------------------
+Test results for MC iteration: 112
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 112
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.886 (0.886)	Loss 0.1482 (0.1482)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.485 (0.494)	Loss 0.1162 (0.2304)	Prec@1 93.750 (92.662)
+ * Prec@1 92.510
+ADC: cco, Bits: 7
+Test Accuracy:92.51
+------------------------------X--------------------------------
+Test results for MC iteration: 113
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 113
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.754 (0.754)	Loss 0.3731 (0.3731)	Prec@1 86.719 (86.719)
+Test: [50/79]	Time 0.499 (0.500)	Loss 0.4314 (0.3878)	Prec@1 84.375 (87.086)
+ * Prec@1 86.970
+ADC: cco, Bits: 7
+Test Accuracy:86.97
+------------------------------X--------------------------------
+Test results for MC iteration: 114
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 114
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.748 (0.748)	Loss 0.1897 (0.1897)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.500 (0.503)	Loss 0.2037 (0.2449)	Prec@1 92.969 (91.958)
+ * Prec@1 91.620
+ADC: cco, Bits: 7
+Test Accuracy:91.62
+------------------------------X--------------------------------
+Test results for MC iteration: 115
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 115
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.748 (0.748)	Loss 0.1773 (0.1773)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.487 (0.486)	Loss 0.1433 (0.2606)	Prec@1 95.312 (91.376)
+ * Prec@1 91.520
+ADC: cco, Bits: 7
+Test Accuracy:91.52
+------------------------------X--------------------------------
+Test results for MC iteration: 116
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 116
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.719 (0.719)	Loss 0.7519 (0.7519)	Prec@1 81.250 (81.250)
+Test: [50/79]	Time 0.489 (0.490)	Loss 0.8532 (0.7590)	Prec@1 73.438 (75.934)
+ * Prec@1 75.390
+ADC: cco, Bits: 7
+Test Accuracy:75.39
+------------------------------X--------------------------------
+Test results for MC iteration: 117
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 117
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.793 (0.793)	Loss 0.1483 (0.1483)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.475 (0.494)	Loss 0.1358 (0.2262)	Prec@1 94.531 (92.831)
+ * Prec@1 92.450
+ADC: cco, Bits: 7
+Test Accuracy:92.45
+------------------------------X--------------------------------
+Test results for MC iteration: 118
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 118
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.743 (0.743)	Loss 0.2767 (0.2767)	Prec@1 89.062 (89.062)
+Test: [50/79]	Time 0.497 (0.498)	Loss 0.3069 (0.2993)	Prec@1 90.625 (89.813)
+ * Prec@1 89.670
+ADC: cco, Bits: 7
+Test Accuracy:89.67
+------------------------------X--------------------------------
+Test results for MC iteration: 119
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 119
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.730 (0.730)	Loss 0.2038 (0.2038)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.488 (0.490)	Loss 0.1657 (0.2783)	Prec@1 93.750 (90.916)
+ * Prec@1 91.140
+ADC: cco, Bits: 7
+Test Accuracy:91.14
+------------------------------X--------------------------------
+Test results for MC iteration: 120
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 120
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.751 (0.751)	Loss 0.4568 (0.4568)	Prec@1 86.719 (86.719)
+Test: [50/79]	Time 0.464 (0.489)	Loss 0.3902 (0.4938)	Prec@1 89.062 (87.071)
+ * Prec@1 87.170
+ADC: cco, Bits: 7
+Test Accuracy:87.17
+------------------------------X--------------------------------
+Test results for MC iteration: 121
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 121
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.759 (0.759)	Loss 0.1500 (0.1500)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.502 (0.502)	Loss 0.1338 (0.2264)	Prec@1 95.312 (92.816)
+ * Prec@1 92.460
+ADC: cco, Bits: 7
+Test Accuracy:92.46
+------------------------------X--------------------------------
+Test results for MC iteration: 122
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 122
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.762 (0.762)	Loss 0.1368 (0.1368)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.484 (0.501)	Loss 0.1055 (0.2327)	Prec@1 95.312 (92.754)
+ * Prec@1 92.760
+ADC: cco, Bits: 7
+Test Accuracy:92.76
+------------------------------X--------------------------------
+Test results for MC iteration: 123
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 123
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.790 (0.790)	Loss 0.1473 (0.1473)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.468 (0.492)	Loss 0.1335 (0.2444)	Prec@1 95.312 (92.019)
+ * Prec@1 92.090
+ADC: cco, Bits: 7
+Test Accuracy:92.09
+------------------------------X--------------------------------
+Test results for MC iteration: 124
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 124
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.727 (0.727)	Loss 0.1608 (0.1608)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.515 (0.494)	Loss 0.1359 (0.2314)	Prec@1 94.531 (92.509)
+ * Prec@1 92.230
+ADC: cco, Bits: 7
+Test Accuracy:92.23
+------------------------------X--------------------------------
+Test results for MC iteration: 125
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 125
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.740 (0.740)	Loss 0.2935 (0.2935)	Prec@1 89.844 (89.844)
+Test: [50/79]	Time 0.496 (0.499)	Loss 0.3329 (0.3141)	Prec@1 89.844 (89.292)
+ * Prec@1 89.100
+ADC: cco, Bits: 7
+Test Accuracy:89.1
+------------------------------X--------------------------------
+Test results for MC iteration: 126
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 126
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.718 (0.718)	Loss 0.2353 (0.2353)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.504 (0.505)	Loss 0.2632 (0.2731)	Prec@1 91.406 (90.778)
+ * Prec@1 90.500
+ADC: cco, Bits: 7
+Test Accuracy:90.5
+------------------------------X--------------------------------
+Test results for MC iteration: 127
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 127
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.739 (0.739)	Loss 0.1372 (0.1372)	Prec@1 96.094 (96.094)
+Test: [50/79]	Time 0.490 (0.495)	Loss 0.1242 (0.2278)	Prec@1 96.094 (92.356)
+ * Prec@1 92.390
+ADC: cco, Bits: 7
+Test Accuracy:92.39
+------------------------------X--------------------------------
+Test results for MC iteration: 128
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 128
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.737 (0.737)	Loss 0.1875 (0.1875)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.478 (0.500)	Loss 0.1857 (0.2389)	Prec@1 93.750 (91.988)
+ * Prec@1 91.760
+ADC: cco, Bits: 7
+Test Accuracy:91.76
+------------------------------X--------------------------------
+Test results for MC iteration: 129
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 129
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.750 (0.750)	Loss 0.1509 (0.1509)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.494 (0.500)	Loss 0.1157 (0.2403)	Prec@1 95.312 (92.509)
+ * Prec@1 92.450
+ADC: cco, Bits: 7
+Test Accuracy:92.45
+------------------------------X--------------------------------
+Test results for MC iteration: 130
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 130
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.745 (0.745)	Loss 0.1417 (0.1417)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.480 (0.493)	Loss 0.1218 (0.2317)	Prec@1 96.094 (92.172)
+ * Prec@1 92.210
+ADC: cco, Bits: 7
+Test Accuracy:92.21
+------------------------------X--------------------------------
+Test results for MC iteration: 131
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 131
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.761 (0.761)	Loss 0.5059 (0.5059)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.485 (0.504)	Loss 0.5874 (0.5201)	Prec@1 78.906 (83.165)
+ * Prec@1 82.730
+ADC: cco, Bits: 7
+Test Accuracy:82.73
+------------------------------X--------------------------------
+Test results for MC iteration: 132
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 132
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.757 (0.757)	Loss 0.2930 (0.2930)	Prec@1 89.062 (89.062)
+Test: [50/79]	Time 0.479 (0.489)	Loss 0.2255 (0.3460)	Prec@1 92.188 (89.660)
+ * Prec@1 89.690
+ADC: cco, Bits: 7
+Test Accuracy:89.69
+------------------------------X--------------------------------
+Test results for MC iteration: 133
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 133
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.762 (0.762)	Loss 0.6724 (0.6724)	Prec@1 82.812 (82.812)
+Test: [50/79]	Time 0.485 (0.500)	Loss 0.7709 (0.6846)	Prec@1 75.781 (78.171)
+ * Prec@1 77.660
+ADC: cco, Bits: 7
+Test Accuracy:77.66
+------------------------------X--------------------------------
+Test results for MC iteration: 134
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 134
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.743 (0.743)	Loss 0.1555 (0.1555)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.492 (0.494)	Loss 0.1063 (0.2509)	Prec@1 95.312 (92.417)
+ * Prec@1 92.550
+ADC: cco, Bits: 7
+Test Accuracy:92.55
+------------------------------X--------------------------------
+Test results for MC iteration: 135
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 135
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.768 (0.768)	Loss 0.7609 (0.7609)	Prec@1 81.250 (81.250)
+Test: [50/79]	Time 0.479 (0.499)	Loss 0.8536 (0.7667)	Prec@1 73.438 (75.613)
+ * Prec@1 75.150
+ADC: cco, Bits: 7
+Test Accuracy:75.15
+------------------------------X--------------------------------
+Test results for MC iteration: 136
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 136
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.717 (0.717)	Loss 0.2959 (0.2959)	Prec@1 89.844 (89.844)
+Test: [50/79]	Time 0.470 (0.488)	Loss 0.2278 (0.3483)	Prec@1 92.188 (89.737)
+ * Prec@1 89.820
+ADC: cco, Bits: 7
+Test Accuracy:89.82
+------------------------------X--------------------------------
+Test results for MC iteration: 137
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 137
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.831 (0.831)	Loss 0.4835 (0.4835)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.485 (0.494)	Loss 0.5625 (0.4986)	Prec@1 79.688 (83.732)
+ * Prec@1 83.440
+ADC: cco, Bits: 7
+Test Accuracy:83.44
+------------------------------X--------------------------------
+Test results for MC iteration: 138
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 138
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.716 (0.716)	Loss 0.1470 (0.1470)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.483 (0.492)	Loss 0.1069 (0.2448)	Prec@1 96.094 (92.494)
+ * Prec@1 92.600
+ADC: cco, Bits: 7
+Test Accuracy:92.6
+------------------------------X--------------------------------
+Test results for MC iteration: 139
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 139
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.724 (0.724)	Loss 0.1515 (0.1515)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.465 (0.483)	Loss 0.1358 (0.2464)	Prec@1 96.094 (91.820)
+ * Prec@1 91.950
+ADC: cco, Bits: 7
+Test Accuracy:91.95
+------------------------------X--------------------------------
+Test results for MC iteration: 140
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 140
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.749 (0.749)	Loss 0.1627 (0.1627)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.479 (0.486)	Loss 0.1344 (0.2543)	Prec@1 96.094 (91.483)
+ * Prec@1 91.670
+ADC: cco, Bits: 7
+Test Accuracy:91.67
+------------------------------X--------------------------------
+Test results for MC iteration: 141
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 141
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.758 (0.758)	Loss 0.1601 (0.1601)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.486 (0.507)	Loss 0.1364 (0.2333)	Prec@1 95.312 (92.417)
+ * Prec@1 92.230
+ADC: cco, Bits: 7
+Test Accuracy:92.23
+------------------------------X--------------------------------
+Test results for MC iteration: 142
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 142
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.735 (0.735)	Loss 0.1361 (0.1361)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.571 (0.497)	Loss 0.1248 (0.2298)	Prec@1 96.094 (92.203)
+ * Prec@1 92.240
+ADC: cco, Bits: 7
+Test Accuracy:92.24
+------------------------------X--------------------------------
+Test results for MC iteration: 143
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 143
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.800 (0.800)	Loss 0.1452 (0.1452)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.504 (0.498)	Loss 0.1297 (0.2285)	Prec@1 93.750 (92.754)
+ * Prec@1 92.490
+ADC: cco, Bits: 7
+Test Accuracy:92.49
+------------------------------X--------------------------------
+Test results for MC iteration: 144
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 144
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.810 (0.810)	Loss 0.1629 (0.1629)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.493 (0.508)	Loss 0.1567 (0.2304)	Prec@1 95.312 (92.540)
+ * Prec@1 92.220
+ADC: cco, Bits: 7
+Test Accuracy:92.22
+------------------------------X--------------------------------
+Test results for MC iteration: 145
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 145
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.820 (0.820)	Loss 0.4065 (0.4065)	Prec@1 87.500 (87.500)
+Test: [50/79]	Time 0.468 (0.488)	Loss 0.3325 (0.4378)	Prec@1 89.844 (87.929)
+ * Prec@1 88.140
+ADC: cco, Bits: 7
+Test Accuracy:88.14
+------------------------------X--------------------------------
+Test results for MC iteration: 146
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 146
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.758 (0.758)	Loss 0.2695 (0.2695)	Prec@1 90.625 (90.625)
+Test: [50/79]	Time 0.493 (0.492)	Loss 0.2061 (0.3267)	Prec@1 93.750 (90.150)
+ * Prec@1 90.230
+ADC: cco, Bits: 7
+Test Accuracy:90.23
+------------------------------X--------------------------------
+Test results for MC iteration: 147
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 147
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.759 (0.759)	Loss 0.1895 (0.1895)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.504 (0.497)	Loss 0.2016 (0.2437)	Prec@1 92.188 (91.850)
+ * Prec@1 91.540
+ADC: cco, Bits: 7
+Test Accuracy:91.54
+------------------------------X--------------------------------
+Test results for MC iteration: 148
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 148
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.744 (0.744)	Loss 0.3107 (0.3107)	Prec@1 89.844 (89.844)
+Test: [50/79]	Time 0.478 (0.498)	Loss 0.3493 (0.3279)	Prec@1 88.281 (88.848)
+ * Prec@1 88.680
+ADC: cco, Bits: 7
+Test Accuracy:88.68
+------------------------------X--------------------------------
+Test results for MC iteration: 149
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 149
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.735 (0.735)	Loss 0.1543 (0.1543)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.499 (0.499)	Loss 0.1103 (0.2569)	Prec@1 96.094 (92.448)
+ * Prec@1 92.540
+ADC: cco, Bits: 7
+Test Accuracy:92.54
+------------------------------X--------------------------------
+Test results for MC iteration: 150
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 150
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.738 (0.738)	Loss 0.1391 (0.1391)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.484 (0.492)	Loss 0.1078 (0.2363)	Prec@1 96.094 (92.892)
+ * Prec@1 92.880
+ADC: cco, Bits: 7
+Test Accuracy:92.88
+------------------------------X--------------------------------
+Test results for MC iteration: 151
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 151
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.721 (0.721)	Loss 0.2156 (0.2156)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.480 (0.498)	Loss 0.2503 (0.2622)	Prec@1 91.406 (91.253)
+ * Prec@1 90.970
+ADC: cco, Bits: 7
+Test Accuracy:90.97
+------------------------------X--------------------------------
+Test results for MC iteration: 152
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 152
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.787 (0.787)	Loss 0.5240 (0.5240)	Prec@1 87.500 (87.500)
+Test: [50/79]	Time 0.567 (0.499)	Loss 0.5284 (0.6195)	Prec@1 82.812 (84.314)
+ * Prec@1 84.450
+ADC: cco, Bits: 7
+Test Accuracy:84.45
+------------------------------X--------------------------------
+Test results for MC iteration: 153
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 153
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.744 (0.744)	Loss 0.1339 (0.1339)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.484 (0.510)	Loss 0.1061 (0.2361)	Prec@1 95.312 (92.693)
+ * Prec@1 92.770
+ADC: cco, Bits: 7
+Test Accuracy:92.77
+------------------------------X--------------------------------
+Test results for MC iteration: 154
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 154
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.733 (0.733)	Loss 0.1463 (0.1463)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.501 (0.501)	Loss 0.1256 (0.2272)	Prec@1 94.531 (92.816)
+ * Prec@1 92.480
+ADC: cco, Bits: 7
+Test Accuracy:92.48
+------------------------------X--------------------------------
+Test results for MC iteration: 155
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 155
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.750 (0.750)	Loss 0.1661 (0.1661)	Prec@1 92.188 (92.188)
+Test: [50/79]	Time 0.475 (0.505)	Loss 0.1589 (0.2320)	Prec@1 94.531 (92.356)
+ * Prec@1 92.050
+ADC: cco, Bits: 7
+Test Accuracy:92.05
+------------------------------X--------------------------------
+Test results for MC iteration: 156
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 156
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.757 (0.757)	Loss 0.2007 (0.2007)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.473 (0.496)	Loss 0.2115 (0.2472)	Prec@1 92.188 (91.759)
+ * Prec@1 91.470
+ADC: cco, Bits: 7
+Test Accuracy:91.47
+------------------------------X--------------------------------
+Test results for MC iteration: 157
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 157
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.706 (0.706)	Loss 0.1576 (0.1576)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.477 (0.491)	Loss 0.1428 (0.2502)	Prec@1 96.094 (91.774)
+ * Prec@1 91.830
+ADC: cco, Bits: 7
+Test Accuracy:91.83
+------------------------------X--------------------------------
+Test results for MC iteration: 158
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 158
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.742 (0.742)	Loss 0.1654 (0.1654)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.477 (0.493)	Loss 0.1369 (0.2531)	Prec@1 95.312 (91.544)
+ * Prec@1 91.680
+ADC: cco, Bits: 7
+Test Accuracy:91.68
+------------------------------X--------------------------------
+Test results for MC iteration: 159
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 159
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.810 (0.810)	Loss 0.1571 (0.1571)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.478 (0.494)	Loss 0.1486 (0.2287)	Prec@1 94.531 (92.616)
+ * Prec@1 92.210
+ADC: cco, Bits: 7
+Test Accuracy:92.21
+------------------------------X--------------------------------
+Test results for MC iteration: 160
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 160
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.730 (0.730)	Loss 0.1516 (0.1516)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.482 (0.490)	Loss 0.1229 (0.2321)	Prec@1 95.312 (92.570)
+ * Prec@1 92.350
+ADC: cco, Bits: 7
+Test Accuracy:92.35
+------------------------------X--------------------------------
+Test results for MC iteration: 161
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 161
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.750 (0.750)	Loss 0.2817 (0.2817)	Prec@1 89.062 (89.062)
+Test: [50/79]	Time 0.470 (0.481)	Loss 0.2176 (0.3345)	Prec@1 92.188 (89.874)
+ * Prec@1 89.940
+ADC: cco, Bits: 7
+Test Accuracy:89.94
+------------------------------X--------------------------------
+Test results for MC iteration: 162
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 162
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.766 (0.766)	Loss 0.4703 (0.4703)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.486 (0.495)	Loss 0.5417 (0.4873)	Prec@1 82.031 (83.946)
+ * Prec@1 83.710
+ADC: cco, Bits: 7
+Test Accuracy:83.71
+------------------------------X--------------------------------
+Test results for MC iteration: 163
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 163
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.734 (0.734)	Loss 0.2308 (0.2308)	Prec@1 92.188 (92.188)
+Test: [50/79]	Time 0.543 (0.488)	Loss 0.1820 (0.2970)	Prec@1 93.750 (90.686)
+ * Prec@1 90.760
+ADC: cco, Bits: 7
+Test Accuracy:90.76
+------------------------------X--------------------------------
+Test results for MC iteration: 164
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 164
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.914 (0.914)	Loss 0.2261 (0.2261)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.502 (0.506)	Loss 0.2603 (0.2678)	Prec@1 91.406 (90.885)
+ * Prec@1 90.670
+ADC: cco, Bits: 7
+Test Accuracy:90.67
+------------------------------X--------------------------------
+Test results for MC iteration: 165
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 165
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.707 (0.707)	Loss 0.1660 (0.1660)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.486 (0.492)	Loss 0.1520 (0.2308)	Prec@1 95.312 (92.570)
+ * Prec@1 92.190
+ADC: cco, Bits: 7
+Test Accuracy:92.19
+------------------------------X--------------------------------
+Test results for MC iteration: 166
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 166
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.742 (0.742)	Loss 0.1323 (0.1323)	Prec@1 95.312 (95.312)
+Test: [50/79]	Time 0.481 (0.493)	Loss 0.1266 (0.2200)	Prec@1 95.312 (92.785)
+ * Prec@1 92.630
+ADC: cco, Bits: 7
+Test Accuracy:92.63
+------------------------------X--------------------------------
+Test results for MC iteration: 167
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 167
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.919 (0.919)	Loss 0.2482 (0.2482)	Prec@1 90.625 (90.625)
+Test: [50/79]	Time 0.471 (0.493)	Loss 0.2082 (0.3180)	Prec@1 92.969 (90.349)
+ * Prec@1 90.450
+ADC: cco, Bits: 7
+Test Accuracy:90.45
+------------------------------X--------------------------------
+Test results for MC iteration: 168
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 168
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.785 (0.785)	Loss 0.7005 (0.7005)	Prec@1 81.250 (81.250)
+Test: [50/79]	Time 0.491 (0.502)	Loss 0.7808 (0.7085)	Prec@1 75.781 (77.849)
+ * Prec@1 77.190
+ADC: cco, Bits: 7
+Test Accuracy:77.19
+------------------------------X--------------------------------
+Test results for MC iteration: 169
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 169
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.718 (0.718)	Loss 0.1636 (0.1636)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.485 (0.496)	Loss 0.1461 (0.2292)	Prec@1 94.531 (92.525)
+ * Prec@1 92.140
+ADC: cco, Bits: 7
+Test Accuracy:92.14
+------------------------------X--------------------------------
+Test results for MC iteration: 170
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 170
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.811 (0.811)	Loss 0.1899 (0.1899)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.503 (0.499)	Loss 0.1985 (0.2449)	Prec@1 92.969 (91.866)
+ * Prec@1 91.650
+ADC: cco, Bits: 7
+Test Accuracy:91.65
+------------------------------X--------------------------------
+Test results for MC iteration: 171
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 171
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.793 (0.793)	Loss 0.1553 (0.1553)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.485 (0.499)	Loss 0.1354 (0.2272)	Prec@1 94.531 (92.739)
+ * Prec@1 92.440
+ADC: cco, Bits: 7
+Test Accuracy:92.44
+------------------------------X--------------------------------
+Test results for MC iteration: 172
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 172
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.753 (0.753)	Loss 0.1389 (0.1389)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.498 (0.499)	Loss 0.1068 (0.2340)	Prec@1 95.312 (92.754)
+ * Prec@1 92.800
+ADC: cco, Bits: 7
+Test Accuracy:92.8
+------------------------------X--------------------------------
+Test results for MC iteration: 173
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 173
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.732 (0.732)	Loss 0.3425 (0.3425)	Prec@1 88.281 (88.281)
+Test: [50/79]	Time 0.486 (0.492)	Loss 0.2704 (0.3845)	Prec@1 91.406 (88.833)
+ * Prec@1 88.960
+ADC: cco, Bits: 7
+Test Accuracy:88.96
+------------------------------X--------------------------------
+Test results for MC iteration: 174
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 174
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.715 (0.715)	Loss 0.4695 (0.4695)	Prec@1 85.938 (85.938)
+Test: [50/79]	Time 0.488 (0.498)	Loss 0.5438 (0.4864)	Prec@1 81.250 (84.115)
+ * Prec@1 83.870
+ADC: cco, Bits: 7
+Test Accuracy:83.87
+------------------------------X--------------------------------
+Test results for MC iteration: 175
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 175
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.691 (0.691)	Loss 0.3937 (0.3937)	Prec@1 87.500 (87.500)
+Test: [50/79]	Time 0.470 (0.485)	Loss 0.3350 (0.4370)	Prec@1 89.062 (87.929)
+ * Prec@1 88.100
+ADC: cco, Bits: 7
+Test Accuracy:88.1
+------------------------------X--------------------------------
+Test results for MC iteration: 176
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 176
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.774 (0.774)	Loss 0.1769 (0.1769)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.489 (0.497)	Loss 0.1752 (0.2363)	Prec@1 93.750 (92.157)
+ * Prec@1 91.880
+ADC: cco, Bits: 7
+Test Accuracy:91.88
+------------------------------X--------------------------------
+Test results for MC iteration: 177
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 177
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.814 (0.814)	Loss 0.1526 (0.1526)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.472 (0.498)	Loss 0.1472 (0.2283)	Prec@1 94.531 (92.632)
+ * Prec@1 92.340
+ADC: cco, Bits: 7
+Test Accuracy:92.34
+------------------------------X--------------------------------
+Test results for MC iteration: 178
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 178
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.753 (0.753)	Loss 0.2523 (0.2523)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.473 (0.503)	Loss 0.2744 (0.2802)	Prec@1 92.188 (90.472)
+ * Prec@1 90.330
+ADC: cco, Bits: 7
+Test Accuracy:90.33
+------------------------------X--------------------------------
+Test results for MC iteration: 179
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 179
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.838 (0.838)	Loss 0.1374 (0.1374)	Prec@1 96.094 (96.094)
+Test: [50/79]	Time 0.522 (0.510)	Loss 0.1201 (0.2287)	Prec@1 94.531 (92.862)
+ * Prec@1 92.660
+ADC: cco, Bits: 7
+Test Accuracy:92.66
+------------------------------X--------------------------------
+Test results for MC iteration: 180
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 180
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.692 (0.692)	Loss 1.4227 (1.4227)	Prec@1 70.312 (70.312)
+Test: [50/79]	Time 0.474 (0.485)	Loss 1.6202 (1.6131)	Prec@1 69.531 (70.205)
+ * Prec@1 70.200
+ADC: cco, Bits: 7
+Test Accuracy:70.2
+------------------------------X--------------------------------
+Test results for MC iteration: 181
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 181
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.718 (0.718)	Loss 0.2582 (0.2582)	Prec@1 90.625 (90.625)
+Test: [50/79]	Time 0.487 (0.489)	Loss 0.2875 (0.2868)	Prec@1 91.406 (90.273)
+ * Prec@1 90.090
+ADC: cco, Bits: 7
+Test Accuracy:90.09
+------------------------------X--------------------------------
+Test results for MC iteration: 182
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 182
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.775 (0.775)	Loss 0.1840 (0.1840)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.484 (0.488)	Loss 0.1793 (0.2383)	Prec@1 93.750 (92.111)
+ * Prec@1 91.910
+ADC: cco, Bits: 7
+Test Accuracy:91.91
+------------------------------X--------------------------------
+Test results for MC iteration: 183
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 183
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.767 (0.767)	Loss 0.1675 (0.1675)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.474 (0.495)	Loss 0.1639 (0.2331)	Prec@1 93.750 (92.417)
+ * Prec@1 92.110
+ADC: cco, Bits: 7
+Test Accuracy:92.11
+------------------------------X--------------------------------
+Test results for MC iteration: 184
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 184
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.882 (0.882)	Loss 0.4879 (0.4879)	Prec@1 86.719 (86.719)
+Test: [50/79]	Time 0.484 (0.495)	Loss 0.4398 (0.5274)	Prec@1 87.500 (86.520)
+ * Prec@1 86.670
+ADC: cco, Bits: 7
+Test Accuracy:86.67
+------------------------------X--------------------------------
+Test results for MC iteration: 185
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 185
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.706 (0.706)	Loss 0.6699 (0.6699)	Prec@1 82.812 (82.812)
+Test: [50/79]	Time 0.485 (0.497)	Loss 0.7633 (0.6813)	Prec@1 76.562 (78.416)
+ * Prec@1 77.860
+ADC: cco, Bits: 7
+Test Accuracy:77.86
+------------------------------X--------------------------------
+Test results for MC iteration: 186
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 186
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.758 (0.758)	Loss 0.2397 (0.2397)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.533 (0.502)	Loss 0.2717 (0.2751)	Prec@1 89.844 (90.686)
+ * Prec@1 90.500
+ADC: cco, Bits: 7
+Test Accuracy:90.5
+------------------------------X--------------------------------
+Test results for MC iteration: 187
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 187
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.780 (0.780)	Loss 1.1559 (1.1559)	Prec@1 74.219 (74.219)
+Test: [50/79]	Time 0.529 (0.493)	Loss 1.3286 (1.3314)	Prec@1 71.875 (73.928)
+ * Prec@1 73.920
+ADC: cco, Bits: 7
+Test Accuracy:73.92
+------------------------------X--------------------------------
+Test results for MC iteration: 188
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 188
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.879 (0.879)	Loss 0.2282 (0.2282)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.491 (0.514)	Loss 0.2434 (0.2618)	Prec@1 91.406 (91.131)
+ * Prec@1 90.930
+ADC: cco, Bits: 7
+Test Accuracy:90.93
+------------------------------X--------------------------------
+Test results for MC iteration: 189
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 189
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.751 (0.751)	Loss 0.1861 (0.1861)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.503 (0.507)	Loss 0.2010 (0.2425)	Prec@1 92.969 (91.912)
+ * Prec@1 91.610
+ADC: cco, Bits: 7
+Test Accuracy:91.61
+------------------------------X--------------------------------
+Test results for MC iteration: 190
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 190
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.825 (0.825)	Loss 0.4447 (0.4447)	Prec@1 85.156 (85.156)
+Test: [50/79]	Time 0.531 (0.518)	Loss 0.5105 (0.4561)	Prec@1 83.594 (85.018)
+ * Prec@1 84.790
+ADC: cco, Bits: 7
+Test Accuracy:84.79
+------------------------------X--------------------------------
+Test results for MC iteration: 191
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 191
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.751 (0.751)	Loss 0.2779 (0.2779)	Prec@1 89.844 (89.844)
+Test: [50/79]	Time 0.511 (0.507)	Loss 0.3085 (0.3015)	Prec@1 90.625 (89.798)
+ * Prec@1 89.660
+ADC: cco, Bits: 7
+Test Accuracy:89.66
+------------------------------X--------------------------------
+Test results for MC iteration: 192
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 192
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.820 (0.820)	Loss 0.1514 (0.1514)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.488 (0.505)	Loss 0.1278 (0.2270)	Prec@1 94.531 (92.831)
+ * Prec@1 92.510
+ADC: cco, Bits: 7
+Test Accuracy:92.51
+------------------------------X--------------------------------
+Test results for MC iteration: 193
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 193
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.779 (0.779)	Loss 0.1424 (0.1424)	Prec@1 94.531 (94.531)
+Test: [50/79]	Time 0.484 (0.506)	Loss 0.1149 (0.2293)	Prec@1 94.531 (92.693)
+ * Prec@1 92.480
+ADC: cco, Bits: 7
+Test Accuracy:92.48
+------------------------------X--------------------------------
+Test results for MC iteration: 194
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 194
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.867 (0.867)	Loss 0.1720 (0.1720)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.493 (0.505)	Loss 0.1680 (0.2337)	Prec@1 94.531 (92.264)
+ * Prec@1 91.980
+ADC: cco, Bits: 7
+Test Accuracy:91.98
+------------------------------X--------------------------------
+Test results for MC iteration: 195
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 195
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.810 (0.810)	Loss 0.2032 (0.2032)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.505 (0.509)	Loss 0.2222 (0.2503)	Prec@1 92.188 (91.743)
+ * Prec@1 91.430
+ADC: cco, Bits: 7
+Test Accuracy:91.43
+------------------------------X--------------------------------
+Test results for MC iteration: 196
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 196
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.717 (0.717)	Loss 0.3343 (0.3343)	Prec@1 89.062 (89.062)
+Test: [50/79]	Time 0.479 (0.492)	Loss 0.2617 (0.3818)	Prec@1 91.406 (88.955)
+ * Prec@1 89.010
+ADC: cco, Bits: 7
+Test Accuracy:89.01
+------------------------------X--------------------------------
+Test results for MC iteration: 197
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 197
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.749 (0.749)	Loss 4.6696 (4.6696)	Prec@1 39.844 (39.844)
+Test: [50/79]	Time 0.464 (0.480)	Loss 5.0415 (4.8432)	Prec@1 45.312 (47.610)
+ * Prec@1 47.760
+ADC: cco, Bits: 7
+Test Accuracy:47.76
+------------------------------X--------------------------------
+Test results for MC iteration: 198
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 198
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.790 (0.790)	Loss 0.2364 (0.2364)	Prec@1 93.750 (93.750)
+Test: [50/79]	Time 0.483 (0.505)	Loss 0.2603 (0.2692)	Prec@1 90.625 (90.839)
+ * Prec@1 90.600
+ADC: cco, Bits: 7
+Test Accuracy:90.6
+------------------------------X--------------------------------
+Test results for MC iteration: 199
+ADC Characteristics: Incircuit 3 Calib CCO ADC MC, MC Index: 199
+Loading model from: inckt3_cco_adc.pt
+Saved model exists
+ADC: cco, Bits: 7
+ADC In min: 2e-08, ADC In max: 2.5e-06, Count Eval Param: 465600000.0
+Test: [0/79]	Time 0.798 (0.798)	Loss 0.2474 (0.2474)	Prec@1 92.969 (92.969)
+Test: [50/79]	Time 0.497 (0.517)	Loss 0.2783 (0.2801)	Prec@1 89.844 (90.472)
+ * Prec@1 90.260
+ADC: cco, Bits: 7
+Test Accuracy:90.26
+------------------------------X--------------------------------
+Max accuracy:92.88, Min accuracy: 47.76
